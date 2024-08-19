@@ -1,0 +1,1246 @@
+name,TempK,Sigma,method ,SMILES
+alpha-(o-chlorophenyl)-p-cresol benzoate,323,40.98,,C1=CC=C(C=C1)C(=O)OC2=CC=C(C=C2)CC3=CC=CC=C3Cl
+6-benzyl-4-bromo-2-phenylphenol,323,42.62,,C1=CC=C(C=C1)CC2=C(C(=CC(=C2)Br)C3=CC=CC=C3)O
+Butylbenzene,353,23.08,Maximum Bubble Pressure - A,CCCCC1=CC=CC=C1
+3-methyl-pyridine,293,35.04,Maximum Bubble Pressure - A,CC1=CN=CC=C1
+"4,7-dichloro-4,7-dipropyldecane",298,29.86,,CCCC(CCC)(CCC(CCC)(CCC)Cl)Cl
+Ethyl Sulfate,288,34.01,Capillary Rise Method - A,CCOS(=O)(=O)O
+ethyl butyrate,373,16.1,Differential Capillary Rise-A,CCCC(=O)OCC
+isobutanol,293,22.94,Capillary rise method,CC(C)CO
+isopropyl phenyl sulfide,293,33.46,capillary rise method - A,CC(C)SC1=CC=CC=C1
+chloroacetic acid,328,37.13,,C(C(=O)O)Cl
+butyl 3-hexyloxypropionate,293,27.84,Maximum Bubble Pressure - A,CCCCCCOCCC(=O)OCCCC
+tetradecane,283,27.43,capillary rise method - N2,CCCCCCCCCCCCCC
+dimethyl suberate,323,32.32,differential capillary rise method ,COC(=O)CCCCCCC(=O)OC
+pentyl Cyanoacetate,288,30.1,Maximum Bubble Pressure - N2,CCCCCOC(=O)CC#N
+o-chlorophenol,373,31.3,,C1=CC=C(C(=C1)O)Cl
+butyl isothiocyanate,333,26.41,,CCCCN=C=S
+"N,N-diethylbenzylamine",303,28.87,,CCN(CC)CC1=CC=CC=C1
+propyl isobutyrate,283,24.83,Differential Capillary Rise-A,CCCOC(=O)C(C)C
+p-dibromobenzene,423,26.73,,C1=CC(=CC=C1Br)Br
+diethyl O-valeryl-l-malate,283,30.65,differential capillary rise method ,CCOC(=O)CC(O)C(=O)OCCC
+dimethyl suberate,343,30.11,differential capillary rise method ,COC(=O)CCCCCCC(=O)OC
+quinoline,363,35.68,maximum bubble pressure - A,C1=CC=C2C(=C1)C=CC=N2
+levo-1-Phenyl-2-butanol,323,31.15,Capillary Rise Method - A,CCC(CC1=CC=CC=C1)O
+methyl hydrocinnamate,313,35.19,capillary rise method - A,COC(=O)CCC1=CC=CC=C1
+o-chloroaniline,313,39.79,,C1=CC=C(C(=C1)N)Cl
+hexyl phenyl sulfide,323,40.48,capillary rise method - A,CCCCCCSC1=CC=CC=C1
+1-pentylnaphthalene,313,33.35,maximum bubble pressure - A,CCCCCC1=CC=CC2=CC=CC=C21
+isobutyl propionate,363,18.48,Capillary Rise - A,CCC(=O)OCC(C)C
+sec-butyl sulfide,313,23.88,Capillary rise method - A,CCC(C)SC(C)CC
+isopropyl phenyl ether,298,30.28,capillary rise method - A,CC(C)OC1=CC=CC=C1
+ethyl butoxyacetate,313,25.55,Maximum Bubble Pressure - A,CCCCOCC(=O)OCC
+2-methyloctane,293,21.88,capillary rise method - A,CCCCCCC(C)C
+"N,N-diethylaniline",353,28.27,,CCN(CC)C1=CC=CC=C1
+4-methylcyclohexanol,283,28.38,differential capillary rise - A,CC1CCC(CC1)O
+tribenzylamine,433,27.16,,C1=CC=C(C=C1)CN(CC2=CC=CC=C2)CC3=CC=CC=C3
+isobutyl formate,293,23.9,Differential Capillary Rise-A,CC(C)COC=O
+O-nitrotoluene,393,29.92,maximum bubble pressure - A,CC1=CC=CC=C1[N+](=O)[O-]
+Methyl DL-3-phenylhydralcrylate,353,33.09,Capillary Rise Method - A,COC(=O)/C=C/c1ccccc1
+methyl dichloroacetate,343,28.47,capillary rise method - A,COC(=O)C(Cl)Cl
+ethyl ethanesulfonate,313,34.01,Capillary Rise Method - A,CCOS(=O)(=O)CC
+3-(pentylamino)-propionitrile,313,27.99,Capillary Rise Method - A,CCCCCNC(C)C#N
+dipropyl maleate,303,30.96,Capillary Rise - A,CCCOC(=O)C=CC(=O)OCCC
+cyclohexyl formate,313,30,differential capillary rise - A,C1CCC(CC1)OC=O
+3-butenenitrile,333,24.89,Capillary Rise Method - A,C=CCC#N
+phenetole,363,25.23,capillary rise method - A,CCOC1=CC=CC=C1
+diethyl propylmalonate,333,25.02,differential capillary rise method ,CCCC(C(=O)OCC)C(=O)OCC
+(bromomethyl)tetrahydrofuran,283,38.27,,C1COCC1CBr
+Ethyl m-hydroxybenzoate,373,34.42,Capillary Rise Method - A,CCOC(=O)C1=CC(=CC=C1)O
+1-pentyl acetate,373,17.72,Differential Capillary Rise-A,CCCCCOC(=O)C
+"ethyl 4-methyl-1,1-cyclohexanediacetate",348,26.9,differential capillary rise method ,CC(=O)OCC1CCC(CC(=O)OCC)C1C
+phenyl propyl sulfide,293,35.37,capillary rise method - A,CCCSC1=CC=CC=C1
+dipentyl maleate,293,30.81,Capillary Rise - A,CCCCCOC(=O)C=CC(=O)OCCCCC
+"3-ethyl-2,2-dimethylpentane",333,18.62,capillary rise method - A,CCC(CC)C(C)(C)C
+cumaldehyde,293,34.03,capillary rise method,CC(C)C1=CC=C(C=C1)C=O
+methyl allylmalonate,363,24.98,Capillary Rise - A,COC(=O)C(CC=C)C(=O)OCÊ
+2-methylcyclohexanol,353,26.29,differential capillary rise - A,CC1CCCCC1O
+dipropyl suberate,363,25.51,differential capillary rise method ,CCCOC(=O)CCCCCCC(=O)OCCC
+"2,4-xylenol",358,27.19,maximum bubble pressure - A,CC1=CC(=C(C=C1)O)C
+1-chloroheptane,353,22.25,differential capillary rise method - A,CCCCCCCCl
+thionyl bromide,333,41.78,,O=S(Br)Br
+tridecane,363,19.88,capillary rise method - N2,CCCCCCCCCCCCC
+dibutyl suberate,283,32.59,differential capillary rise method ,CCCCOC(=O)CCCCCCC(=O)OCCCC
+alpha-chlorotoluene,343,31.33,,C1=CC=C(C=C1)CCl
+"1,6-dibromohexane",358,33.16,,C(CCCBr)CCBr
+methyl octanoate,333,23.92,Differential Capillary Rise-A,CCCCCCCC(=O)OC
+3-(dibutylamino)-propionitrile,288,29.6,Capillary Rise Method - A,CCCCN(CCCC)CCC#N
+3-heptanone,298,25.7,maximum bubble pressure - A,CCCCC(=O)CC
+isopropyl sulfite,353,20.75,Capillary rise method - A,C(C)COS(=O)OC(C)C
+"glycerol 1,2-diacetate 3-stearate",403,19.86,capillary pressure - A,CC(=O)OCC(COC(=O)C)OC(=O)CCCCCCCCCCCCCC
+p-diethylbenzene,313,26.94,Maximum Bubble Pressure - A,CCC1=CC=C(C=C1)CC
+ethyl formate,303,22.52,Differential Capillary Rise-A,CCOC=O
+"1,9-diiodononane",313,40.53,,C(CCCCI)CCCCI
+diethyl O-decanoyl-l-malate,363,24.16,differential capillary rise method ,CCCCCCCCCC(=O)OCC(=O)OCC
+methyl 3-hexyloxypropionate,358,23.01,Maximum Bubble Pressure - A,CCCCCCOCCC(=O)OC
+diheptyl ether,288,27.42,capillary rise method - A,CCCCCCCOCCCCCCC
+beta-ethyl-alpha-methylstyrene,293,32.25,maximum bubble pressure - A,CCC=C(C)C1=CC=CC=C1
+phenyl propyl ether,343,26.88,capillary rise method - A,CCCOC1=CC=CC=C1
+"d-p-mentha-1,8-diene",373,20.21,capillary rise method - A,CC1=CCC(CC1)C(=C)C
+dextro-4-Phenyl-2-butanol,303,34.74,Capillary Rise Method - A,CC(CCC1=CC=CC=C1)O
+propylnitrile,313,25.02,Capillary Rise Method - A,CCC#N
+"2,7-dimethyloctane",293,22.49,capillary rise method - A,CC(C)CCCCC(C)C
+ethyl carbanilate,343,35.35,,CCOC(=O)NC1=CC=CC=C1
+bis[2-(2-methoxyethoxy)-ethyl] ether,333,29.85,capillary rise method - A,CC(C1CCC2CCCCC2C1)C(=O)OCC
+o-anisaldehyde,363,35.39,maximum bubble pressure - A,COC1=CC=CC=C1C=O
+p-toluidine,323,34.79,,CC1=CC=C(C=C1)N
+4-methylcyclohexanol,353,23.55,differential capillary rise - A,CC1CCC(CC1)O
+Toluene,353,21.39,Maximum Bubble Pressure - A,CC1=CC=CC=C1
+1-iodopropane,343,23.69,differential capillary rise method - A,CCCI
+2-methylpropene,293,12.27,capillary rise method - v,CC(=C)C
+trans-hexahydro-2-methyleneindan,313,27.02,differential capillary rise - A,C=C1CC2CCCC2C1
+isopentyl butyrate,323,22.73,Differential Capillary Rise-A,CCCC(=O)OCCC(C)C
+"Ethyl 3-methyl-2-cyclopropene-1,2-dicarboxylate",373,25.06,Maximum Bubble Pressure -A,CCOC(=O)C1C=C1C(=O)OC
+4-benzyl-6-bromo-2-phenylphenol,313,43.01,,C1=CC=C(C=C1)CC2=CC(=C(C(=C2)Br)O)C3=CC=CC=C3
+ethyl butylxanthate,348,27.58,Capillary Rise Method - A,CCOC(=S)SCCCC
+dimethyl glutarate,323,32.67,differential capillary rise method ,COC(=O)CCCC(=O)OC
+dipentyl phthalate,373,25.17,Capillary Rise Method - A,CCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCC
+p-fluorotoluene,283,29.33,,CC1=CC=C(C=C1)F
+ethyl butyrate,293,24.46,Differential Capillary Rise-A,CCCC(=O)OCC
+1-heptene,323,17.33,capillary rise method - N2,CCCCCC=C
+p-nitroanisole,413,34.82,maximum bubble pressure - A,COC1=CC=C(C=C1)[N+](=O)[O-]
+1-decyne,313,24.01,Maximum Bubble Pressure - A,CCCCCCCCC#C
+isobutyl methyl sulfide,343,20.02,Capillary rise method - A,CC(C)CSC
+levo-1-Phenyl-2-butanol,353,28.35,Capillary Rise Method - A,CCC(CC1=CC=CC=C1)O
+Butyl Cyanoacetate,423,21.81,Maximum Bubble Pressure - N2,CCCCOC(=O)CC#N
+2-methylpentane,333,13.39,capillary rise method - A,CCCC(C)C
+diethyl maleate,293,32.59,Capillary Rise - A,CCOC(=O)C=CC(=O)OCC
+butyl thiophene-2-carboxylate,333,28.72,,CCCCOC(=O)C1=CC=CS1
+3-methylcyclopentanone,333,25.85,differential capillary rise - A,CC1CCC(=O)C1
+n-ethylaniline,313,34.72,,CCNC1=CC=CC=C1
+4-methyl-4-penten-2-one,293,23,not given,CC(=C)CC(=O)C
+glycerol trielaidate,353,21.58,capillary rise method - A,CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)OC(=O)CCCCCCCC=CCCCCCCCC
+tetraethylene glycol monohexyl ether,293,32.1,capillary rise method - A,CCCCCCOCCOCCOCCOCCO
+2-butanone O-propyloxime,333,19.81,Maximum bubble pressure - A,CCCON=C(C)CC
+tris(2-propoxyethyl)phosphite,293,28.94,maximum bubble pressure - A,CCCOCCOP(OCCOCCC)OCCOCCC
+2-methylheptane,293,20.75,capillary rise method - A,CCCCCC(C)C
+diethylene glycol,313,43.25,capillary rise -v ,C(COCCO)O
+ethyl 2-isopentylacetoacetate,353,23.07,Maximum Bubble Pressure - A,CCOC(=O)C(CCC(C)C)C(=O)C
+1-methylcyclopentanol,293,29.75,differential capillary rise - A,CC1(CCCC1)O
+o-chloroaniline,313,38.99,,C1=CC=C(C(=C1)N)Cl
+Ethyl ethylcarbamate,413,22.49,,CCNC(=O)OCC
+m-xylene,373,20.19,capillary Rise Method - A,CC1=CC(=CC=C1)C
+4-pentyl-pyridine,313,30.45,Maximum Bubble Pressure - A,CCCCCC1=CC=NC=C1
+sec-butylbenzene,303,27.54,Maximum Bubble Pressure - A,CCC(C)C1=CC=CC=C1
+methyl phenyl sulfide,333,35.38,capillary rise method - A,CSC1=CC=CC=C1
+1-pentane sulfonyl chloride,308,31.7,Capillary rise method - A,CCCCCS(=O)(=O)Cl
+1-chloro-octane,353,21.95,differential capillary rise method - A,CCCCCCCCCl
+bromobenzene,353,28.86,,C1=CC=C(C=C1)Br
+butyl isobutyrate,363,17.58,Differential Capillary Rise-A,CCCCOC(=O)C(C)C
+1-bromo-4-fluoro-benzene,373,26.39,,C1=CC(=CC=C1F)Br
+"ethyl 1,1-cyclopentanediacetate",338,28.44,differential capillary rise method ,CCOC(=O)CC1CCCC1C(=O)OCC
+propyl butyrate,353,19.06,Differential Capillary Rise-A,CCCC(=O)OCCC
+ethyl isobutyrate,343,18.01,Differential Capillary Rise-A,CCOC(=O)C(C)C
+Methyl formate,303,23.57,Differential Capillary Rise-A,COC=O
+cyclo-octane,323,26.57,differential capillary rise - A,C1CCCCCCC1
+"3-ethyl-2,4-dimethylpentane",333,19.04,capillary rise method - A,CCC(C(C)C)C(C)C
+2-methyloctane,283,22.82,capillary rise method - A,CCCCCCC(C)C
+ethyl propylcarbamate,393,24.05,,CCCNC(=O)OCC
+propyl dodecanoate,313,27.13,Differential Capillary Rise-A,CCCCCCCCCCCC(=O)OCCC
+2-methoxyethanol,283,32.32,Capillary rise method,COCCO
+o-ethyltoluene,303,29.15,Maximum Bubble Pressure - A,CCC1=CC=CC=C1C
+"methyl 1,1-cyclohexanedicarboxylate",373,26.96,Maximum Bubble Pressure -A,COC(=O)C1CCCCC1C(=O)OC
+2-methyl-2-butene,298,17.15,Capillary Rise Method - V,CC=C(C)C
+diethyl oxalate,323,28.72,differential capillary rise method ,CCOC(=O)C(=O)OCC
+ethyl ethanesulfonate,373,27.92,Capillary Rise Method - A,CCOS(=O)(=O)CC
+diethyl O-heptanoyl-l-malate,333,26.44,differential capillary rise method ,CCCCCCCC(=O)OC(C(=O)OCC)C(O)C(=O)OCC
+N-ethylacetanilide,413,24.67,,CCN(C1=CC=CC=C1)C(=O)C
+1-Nonyne,333,21.05,Maximum Bubble Pressure - A,CCCCCCCC#C
+trioctyl phosphite,358,23.44,maximum bubble pressure - A,CCCCCCCCOP(OCCCCCCCC)OCCCCCCCC
+"1,6-hexanediol bis(7H-dodecafluoroheptanoate)",293,25.9,,C(CCCOC(=O)C(C(C(C(C(C(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)CCOC(=O)C(C(C(C(C(C(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+propyl 3-butoxypropionate,293,27.11,Maximum Bubble Pressure - A,CCCCOCCC(=O)OCCC
+ethyl 3-heptyloxypropionate,358,22.45,Maximum Bubble Pressure - A,CCCCCCCOCCC(=O)OCC
+"2,5-dichlorothiophene",358,29.98,,C1=C(SC(=C1)Cl)Cl
+"2,2,3,3-tetrafluoro-1-propanol",293,27.6,,C(C(C(F)F)(F)F)O
+propyl butoxyacetate,358,21.66,Maximum Bubble Pressure - A,CCCCOCC(=O)OCCC
+benzamide,453,34.57,differential capillary rise,C1=CC=C(C=C1)C(=O)N
+iodobenzene,303,38.15,,C1=CC=C(C=C1)I
+1-heptylnaphthalene,333,31.3,maximum bubble pressure - A,CCCCCCCC1=CC=CC2=CC=CC=C21
+1-chlorononane,373,20.72,differential capillary rise method - A,CCCCCCCCCCl
+m-dichlorobenzene,353,29.12,,C1=CC(=CC(=C1)Cl)Cl
+3-octanone,303,25.7,maximum bubble pressure - A,CCCCCC(=O)CC
+"ethyl 4-methyl-1,1-cyclohexanediacetate",288,32.18,differential capillary rise method ,CC(=O)OCC1CCC(CC(=O)OCC)C1C
+2-methoxyethanol,293,31.33,Capillary rise method,COCCO
+4-octanone,298,25.72,maximum bubble pressure - A,CCCCC(=O)CCC
+"4,13-dipropyl-4,13-hexadecanediol",343,27.62,,CCCC(CCC)(CCCCCCCCC(CCC)(CCC)O)O
+diethyl oxalate,353,25.37,differential capillary rise method ,CCOC(=O)C(=O)OCC
+o-xylene,323,27,capillary Rise Method - A,CC1=CC=CC=C1C
+undecyl valerate,308,27.64,Maximum bubble pressure - A,CCCCCCCCCCCOC(=O)CCCC
+formic acid,333,33.28,capillary rise method,C(=O)O
+4-chlorodecane,343,23.81,,CCCCCCC(CCC)Cl
+sec-butylcyclohexane,278,28.88,Maximum Bubble Pressure - A,CCC(C)C1CCCCC1
+propyl citraconate,363,24.42,Capillary Rise - A,CCOC(=O)/C=C(/C)C(=O)OCCÊ
+1-nonanol,373,22.2,Capillary rise method,CCCCCCCCCO
+methyl benzoate,343,31.9,capillary rise method - A,COC(=O)C1=CC=CC=C1
+4-hydroxy-3-methoxybenzaldehyde,473,26.31,Maximum Bubble Pressure - A,COC1=C(C=CC(=C1)C=O)O
+bis[2-(2-methoxyethoxy)-ethyl] ether,323,30.86,capillary rise method - A,CC(C1CCC2CCCCC2C1)C(=O)OCC
+isobutyl phenylpropiolate,293,35.05,Differential Capillary Rise - A,CC(C)COC(=O)C#CC1=CC=CC=C1
+dibutoxymethane,303,23.69,capillary rise,CCCCOCOCCCC
+isobutylcyclopentane,283,25.67,Maximum Bubble Pressure - A,CC(C)CC1CCCC1
+pentyl undecanoate,338,24.89,Maximum bubble pressure - A,CCCCCCCCCCC(=O)OCCCCC
+methyl dichloroacetate,283,35.78,capillary rise method - A,COC(=O)C(Cl)Cl
+ethyl isobutyrate,373,14.87,Differential Capillary Rise-A,CCOC(=O)C(C)C
+Methyl picolinate,313,41.31,Maximum Bubble Pressure - A,COC(=O)C1=CC=CC=N1
+diethyl O-octanoyl-l-malate,293,29.7,differential capillary rise method ,CCCCCCCC(=O)OC(C(=O)OCC)C(=O)OCC
+Lactonitrile,363,29.67,Capillary Rise Method - A,CC(C#N)O
+alpha-bromotoluene,413,16.34,,C1=CC=C(C=C1)CBr
+1-bromo-octane,363,23.58,differential capillary rise method - A,CCCCCCCCBr
+ethyl dichloroacetate,333,27.94,capillary rise method - A,CCOC(=O)C(Cl)Cl
+1-phenyl-2-butanone,323,33.41,capillary rise method - A,CCC(=O)CC1=CC=CC=C1
+Acetic anhydride,263,36.96,capillary rise method,CC(=O)OC(=O)C
+phenyl acetonitrile,303,41.1,Capillary Rise Method - A,C1=CC=C(C=C1)CC#N
+"perfluoro-1,3,5-trimethylcyclohexane",298,17.2,,C1(C(C(C(C(C1(F)F)(C(F)(F)F)F)(F)F)(C(F)(F)F)F)(F)F)(C(F)(F)F)F
+2-butylnaphthalene,333,31.83,maximum bubble pressure - A,CCCCC1=CC2=CC=CC=C2C=C1
+"1,7-dibromoheptane",313,38.11,,C(CCCBr)CCCBr
+methyl mesaconate,313,32.9,Capillary Rise - A,COC(=O)C=C(/C)C(=O)O
+1-hexanethiol,333,23.63,capillary rise method - A,CCCCCCS
+diethyl adipate,313,30.28,differential capillary rise method ,CCOC(=O)CCCCC(=O)OCC
+dibutyl pentylmalonate,293,28.44,differential capillary rise method ,CCCCCC(C(=O)OCCCC)C(=O)OCCCC
+benzaldehyde,363,30.91,Drop Weight-A,C1=CC=C(C=C1)C=O
+1-pentyl sulfite ,288,29.34,Capillary rise method - A,CCCCCOS(=O)OCCCCC
+p-ethyltoluene,303,27.75,Maximum Bubble Pressure - A,CCC1=CC=C(C=C1)C
+p-tolunitrile,303,36.49,Capillary Rise Method - A,CC1=CC=C(C=C1)C#N
+5-chloro-5-methylundecane,298,27.05,,CCCCCCC(C)(CCCC)Cl
+1-bromoundecane,323,27.63,differential capillary rise method - A,CCCCCCCCCCCBr
+dipentyl malate,293,28.63,Drop Weight - A,CCCCCOC(=O)CC(C(=O)OCCCCC)O
+dextro-4-Phenyl-2-butanol,293,35.61,Capillary Rise Method - A,CC(CCC1=CC=CC=C1)O
+2-chloro-2-methylhexane,318,21.7,,CCCCC(C)(C)Cl
+dibutyl adipate,363,25.1,differential capillary rise method ,CCCCOC(=O)CCCCC(=O)OCCCC
+1-iodohexane,323,27.4,differential capillary rise method - A,CCCCCCI
+methyl 9-decynoate,313,31.02,Differential Capillary Rise - A,C#CCCCCCCCC(=O)OC
+p-anisaldehyde,393,32.13,maximum bubble pressure - A,COC1=CC=C(C=C1)C=O
+"1,1,1-trichloroethane",308,23.89,differential capillary rise method - A,CC(Cl)(Cl)Cl
+butyl butyrate,353,19.93,Differential Capillary Rise-A,CCCCOC(=O)CCC
+tert-butyl methyl sulfide,323,20.37,Capillary rise method - A,CC(C)(C)SC
+butyl thiocyanate,303,31.03,,CCCCSC#N
+bicyclohexane,363,26.08,differential capillary rise - A,C1CCC(CC1)C2CCCCC2
+3-methyloctane,283,23.28,capillary rise method - A,CCCCCC(C)CC
+"2,3-dimethylbutane",293,17.38,capillary rise method - A,CC(C)C(C)C
+"4,4'-azoxydiphenetole ",414.2,31.5,ring detachment,CCOC1=CC=C(C=C1)N=[N+](C2=CC=C(C=C2)OCC)[O-]
+methyl ethylpropylmalonate,323,27.46,differential capillary rise method ,CCCOC(=O)C(C)C(=O)OCÊ
+pentyl nitrite,308,21.14,capillary rise method - A,CCCCCON=O
+butyl chloroacetate,343,25.29,capillary rise method - A,CCCCOC(=O)CCl
+2-pentanone,303,22.93,maximum bubble pressure - A,CCCC(=O)C
+3-ethyl-3-methylpentane,333,18.33,capillary rise method - A,CCC(C)(CC)CC
+ethyl benzoate,333,30.81,capillary rise method - A,CCOC(=O)C1=CC=CC=C1
+Methyl m-hydroxybenzoate,393,36.02,Capillary Rise Method - A,COC(=O)C1=CC(=CC=C1)O
+hexyl 2-naphthaleneacetate,358,31.08,maximum bubble pressure - A,O=C(OCCCCCC)Cc1cccc2ccccc12
+acetic acid,353,21.63,capillary rise method,CC(=O)O
+ethyl fumarate,288,32.32,Capillary Rise - A,CCOC(=O)C=CC(=O)O
+bromodichloromethane,338,26.7,differential capillary rise method - A,C(Cl)(Cl)Br
+Ethyl disulfide,323,27.79,Capillary rise method - A,CCSSCC
+"methyl trans-decahydro-2,2-naphthalene diacetate",308,34.97,differential capillary rise method ,CC(=O)OC1CCC2CCCCC2C1C(=O)OC
+veratrole,443,23.5,maximum bubble pressure - A,COC1=CC=CC=C1OC
+1-hexane sulfonyl chloride,293,31.1,Capillary rise method - A,CCCCCCS(=O)(=O)Cl
+methyl heptanoate,283,27.96,Differential Capillary Rise-A,CCCCCCC(=O)OC
+cyclopentanone,303,32.25,differential capillary rise - A,C1CCC(=O)C1
+(2-bromoethyl)-benzene,323,35.62,,C1=CC=C(C=C1)CCBr
+tridecane,353,20.75,capillary rise method - N2,CCCCCCCCCCCCC
+"5,6,7,8-tetrahydro-2-naphthol",368,36.72,maximum bubble pressure - A,C1CCC2=C(C1)C=CC(=C2)O
+1-pentyl sulfite ,323,26.41,Capillary rise method - A,CCCCCOS(=O)OCCCCC
+4-methylvaleric,313,25.02,Capillary rise method,CC(C)CCC(=O)O
+diisopropyl succinate,373,20.81,differential capillary rise method ,CC(C)OC(=O)CCC(=O)OC(C)C
+glycerol tributyrate,333,28.14,maximum bubble pressure - N2,CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC
+propylamine,293,22.37,differential capillary rise - V,CCCN
+isopentyl propionate,363,18.77,Capillary Rise - A,CCC(=O)OCCC(C)C
+triisopentylamine,323,21.88,,CC(C)CCN(CCC(C)C)CCC(C)C
+diisopentyl ether,333,19.53,capillary rise method - A,CC(C)CCOCCC(C)C
+Ethyl 2-cyano-3-ethylhexanoate,288,30.9,Capillary Rise Method - A,CCCC(CC)C(C#N)C(=O)OCC
+dibutyl oxalate,333,25.98,differential capillary rise method ,CCCCOC(=O)C(=O)OCCCC
+4-methyl-4-nonanol,318,24.02,Maximum Bubble Pressure - A,CCCCCC(C)(CCC)O
+4-hydroxy-3-methoxybenzaldehyde,353,41.08,Maximum Bubble Pressure - A,COC1=C(C=CC(=C1)C=O)O
+1-butanethiol,323,22.36,capillary rise method - A,CCCCS
+bis[2-(2-methoxyethoxy)-ethyl] ether,303,32.9,capillary rise method - A,CC(C1CCC2CCCCC2C1)C(=O)OCC
+diisopentyl acetylenedicarboxylate,293,30.68,Differential Capillary Rise - A,CC(C)CCOC(=O)C#CC(=O)OCCC(C)C
+anisole,343,29.68,capillary rise method - A,COC1=CC=CC=C1
+DL-manelonitrile,288,44.43,Capillary Rise Method - A,C1=CC=C(C=C1)C(C#N)O
+"alpha,alpha-dichlorotoluene",353,32.98,,C1=CC=C(C=C1)C(Cl)Cl
+1-methylnaphthalene,323,35.29,capillary rise method - A,CC1=CC=CC2=CC=CC=C12
+methyl heptanoate,323,24.01,Differential Capillary Rise-A,CCCCCCC(=O)OC
+glycerol triformate,293,47.41,maximum bubble pressure - N2,C(C(COC=O)OC=O)OC=O
+nicotine,343,33.29,capillary rise method - A,CN1CCCC1C2=CN=CC=C2
+DL-1-Phenyl-2-butanol,293,34,Capillary Rise Method - A,CCC(CC1=CC=CC=C1)O
+1-dodecene,293,25.6,capillary rise method - N2,CCCCCCCCCCC=C
+trans-2-pentene,303,15.91,capillary rise method - N2,CCC=CC
+cyclohexyl methyl ether,333,23.8,differential capillary rise - A,COC1CCCCC1
+3-chloro-3-methylheptane,328,22.5,,CCCCC(C)(CC)Cl
+Dimethyl Ether,213,23.84,Capillary Rise Method - V,COC
+isopentyl disulfide,343,24.38,Capillary rise method - A,CC(C)CCSSCCC(C)C
+"3,5-xylenol",393,24.41,maximum bubble pressure - A,CC1=CC(=CC(=C1)O)C
+nitrobenzene,473,23.2,maximum bubble pressure - A,C1=CC=C(C=C1)[N+](=O)[O-]
+diiodomethane,333,60.53,,C(I)I
+Ethyl 2-cyano-3-propylcrotonate,298,32.75,Capillary Rise Method - A,CCC/C(=C(/C#N)\C(=O)OCC)/C
+m-Hydroxybenzaldehyde,433,37.62,Maximum Bubble Pressure - A,C1=CC(=CC(=C1)O)C=O
+hexyl acetate,323,23.59,Differential Capillary Rise-A,CCCCCCOC(=O)C
+octyl sulfide,323,27.44,Capillary rise method - A,CCCCCCCCSCCCCCCCC
+diethyl propylmalonate,363,22.09,differential capillary rise method ,CCCC(C(=O)OCC)C(=O)OCC
+"1,2,3-trimethylbenzene",333,24.67,Maximum Bubble Pressure - A,CC1=C(C(=CC=C1)C)C
+diethyl acetylenedicarboxylate,303,32.27,Differential Capillary Rise - A,CCOC(=O)C#CC(=O)OCC
+tert-buyl ethyl sulfide,323,20.67,Capillary rise method - A,CC(C)(C)SC
+butyl 3-propoxypropionate,293,26.79,Maximum Bubble Pressure - A,CCCCOC(=O)CCOCCC
+Butyl propioate,303,24.39,Differential Capillary Rise-A,CCC(=O)OCCCC
+p-ethyltoluene,353,22.38,Maximum Bubble Pressure - A,CCC1=CC=C(C=C1)C
+dimethyl methylmalonate,333,28.7,differential capillary rise method ,CC(C(=O)OC)C(=O)OC
+"2-propyn-1-ol, propionate",313,28.85,Maximum Bubble Pressure - A,CCC(=O)OCC#C
+ethyl 2-isopentylacetoacetate,343,23.91,Maximum Bubble Pressure - A,CCOC(=O)C(CCC(C)C)C(=O)C
+isopropanol,343,17.38,Capillary rise method,CC(C)O
+1-bromopropane,293,25.03,differential capillary rise method - A,CCCBr
+3-hexanone oxime,303,27.8,maximum bubble pressure -A ,CCC/C(=N\O)/CC
+tributyl orthophosphate,313,23.5,capillary rise method - A,CCCCOP(=O)(OCCCC)OCCCC
+2-pentanone oxime,323,26.28,maximum bubble pressure -A ,CCCC(=NO)C
+"p-menttha-6,8-dien-2-one",283,35.62,capillary rise method - A,CC1=CCC(CC1=O)C(=C)C
+diethyl adipate,323,29.23,differential capillary rise method ,CCOC(=O)CCCCC(=O)OCC
+3-pyridinemethanol,333,45.06,maximum bubble pressure - A,C1=CC(=CN=C1)CO
+1-phenylhexane,343,25.25,Maximum Bubble Pressure - A,CCCCCCC1=CC=CC=C1
+1-bromo-octane,323,26.36,differential capillary rise method - A,CCCCCCCCBr
+"methyl 3,3-diethylglutarate",298,31.29,differential capillary rise method ,CCCC(CC(=O)OC)C(C)(C)C(=O)OC
+"2,3-dimethyl-pyridine",313,31.1,Maximum Bubble Pressure - A,CC1=C(N=CC=C1)C
+dibutyl acetylenedicarboxylate,353,26.32,Differential Capillary Rise - A,CCCCOC(=O)C#CC(=O)OCCCC
+dimethyl chlorofumarate,313,35.19,,COC(=O)C=C(C(=O)OC)Cl
+1-iodo-octane,343,26.11,differential capillary rise method - A,CCCCCCCCI
+1-nitrobutane,303,28.68,maximum bubble pressure method - A,CCCC[N+](=O)[O-]
+ethyl picolinate,358,32.75,Maximum Bubble Pressure - A,CCOC(=O)C1=CC=CC=N1
+dihexyl phosphonate,313,27.19,maximum bubble pressure - A,CCCCCCO[P+](=O)OCCCCCC
+"4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-butanol",283,32.55,capillary rise method - A,CC1=CCCC(C1CCC(C)O)(C)C
+"2,5-dichloro-2,5-dimethylhexane",338,24.67,,CC(C)(CCC(C)(C)Cl)Cl
+Methyl DL-3-phenylhydralcrylate,373,31.15,Capillary Rise Method - A,COC(=O)/C=C/c1ccccc1
+Methyl m-hydroxybenzoate,353,39.63,Capillary Rise Method - A,COC(=O)C1=CC(=CC=C1)O
+"trans-1,3-dimethylcyclohexane",323,20.08,differential capillary rise - A,CC1CCCC(C1)C
+1-nitropropane,323,27.66,maximum bubble pressure method - A,CCC[N+](=O)[O-]
+thymol,433,20.81,maximum bubble pressure - A,CC1=CC(=C(C=C1)C(C)C)O
+di-sec-butylamine,288,23.2,,CCC(C)NC(C)CC
+m-dimethoxybenzene,298,33.9,maximum bubble pressure - A,COC1=CC(=CC=C1)OC
+2-iodopropane,343,21.6,differential capillary rise method - A,CC(C)I
+p-cresol,373,29.32,capillary rise method - A,CC1=CC=C(C=C1)O
+hexanenitrile,293,27.83,Capillary Rise Method - A,CCCCCC#N
+butyl 3-butynoate,323,26.4,Differential Capillary Rise - A,CCCCOC(=O)CC#C
+1-undecene,343,20.34,capillary rise method - N2,CCCCCCCCCC=C
+diisopropyl adipate,293,29.33,differential capillary rise method ,CC(C)OC(=O)CCCCC(=O)OC(C)C
+3-hexanone,353,21.34,maximum bubble pressure A,CCCC(=O)CC
+isobutyl formate,303,22.77,Differential Capillary Rise-A,CC(C)COC=O
+5-dodecanol,293,27.45,Maximum Bubble Pressure -A,CCCCCCCC(CCCC)O
+dimethyl propylmalonate,353,25.05,differential capillary rise method ,CCCC(C(=O)OC)C(=O)OC
+diethyl dextro-tartrate,353,31.96,Drop Weight Method - A,C(C(C(C(O)O)O)OCC)OCC
+m-Hydroxybenzaldehyde,453,35.89,Maximum Bubble Pressure - A,C1=CC(=CC(=C1)O)C=O
+isopropylcyclopentane,293,24.38,Maximum Bubble Pressure - A,CC(C)C1CCCC1
+p-ethyltoluene,323,25.6,Maximum Bubble Pressure - A,CCC1=CC=C(C=C1)C
+propyl fumarate,333,27.16,Capillary Rise - A,CCCOC(=O)C=CC(=O)O
+thionyl bromide,283,45.53,,O=S(Br)Br
+o-chloroaniline,353,36.18,,C1=CC=C(C(=C1)N)Cl
+o-chlorobenzyl phenyl ether,333,37.99,,C1=CC=C(C=C1)OCC2=CC=CC=C2Cl
+ethyl butylxanthate,328,29.52,Capillary Rise Method - A,CCOC(=S)SCCCC
+propyl isovalerate,303,23.75,Differential Capillary Rise-A,CCCOC(=O)CC(C)C
+"2-hexoxy-4-methyl-1,2,3-dioxaphospholane",293,28.29,maximum bubble pressure - A,CCCCCCOP1C(C)COO1
+cyclohexylamine,313,29.44,,C1CCC(CC1)N
+6-benzyl-4-bromo-2-phenylphenol,333,41.88,,C1=CC=C(C=C1)CC2=C(C(=CC(=C2)Br)C3=CC=CC=C3)O
+bis(2-butoxyethyl)phosphonate,293,30.96,maximum bubble pressure - A,CCCCOCCOP(=O)OCCOCCCC
+"4-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2-butanol",313,29.94,capillary rise method - A,CC1=C(C(CCC1)(C)C)CCC(C)O
+1-phenyl-1-penten-3-one,443,26.78,capillary rise method - A,CCC(=O)C=CC1=CC=CC=C1
+methyl undecenoate,363,23.37,Capillary Rise - A,COC(=O)CCCCCCCCC=C
+dibutyl succinate,373,23.24,differential capillary rise method ,CCCCOC(=O)CCC(=O)OCCCC
+butyl propyl carbonate,313,25.05,Maximum Bubble Pressure -A,CCCCOC(=O)OCCC
+2-heptanone,323,23.48,maximum bubble pressure - A,CCCCCC(=O)C
+"2,4,6-trichlorophenol",453,25.93,,C1=C(C=C(C(=C1Cl)O)Cl)Cl
+isovaleraldehyde,313,21.66,capillary rise method,CC(C)CC=O
+propyl sulfide,353,20.08,Capillary rise method - A,CCCSCCC
+propyl cyclopropane,353,22.35,capillary rise method - A,CCCC1CC1
+p-bromophenol,453,29.5,,C1=CC(=CC=C1O)Br
+diisopentyl acetylenedicarboxylate,323,28.15,Differential Capillary Rise - A,CC(C)CCOC(=O)C#CC(=O)OCCC(C)C
+1-proprionapththone,358,36.75,maximum bubble pressure - A,CCC(=O)C1=CC=CC2=CC=CC=C21
+propyl dodecanoate,373,22.09,Differential Capillary Rise-A,CCCCCCCCCCCC(=O)OCCC
+1-chloro-3-methylbutane,343,17.98,differential capillary rise method - A,CC(C)CCCl
+cyclopentane,293,22.61,Maximum Bubble Pressure - A,C1CCCC1
+o-cresol,453,21.23,capillary rise method - V,CC1=CC=CC=C1O
+2-methylcyclohexanol,293,30.91,differential capillary rise - A,CC1CCCCC1O
+"1,3-propanediol",333,42.01,capillary rise -v ,C(CO)CO
+dipentyl adipate,283,32.11,differential capillary rise method ,CCCCCOC(=O)CCCCC(=O)OCCCCC
+propyl butoxyacetate,333,23.87,Maximum Bubble Pressure - A,CCCCOCC(=O)OCCC
+propyl 3-methoxypropionate,293,28.42,Maximum Bubble Pressure - A,CCCOC(=O)CCOC
+p-toluenesulfonyl chloride,383,32.48,,CC1=CC=C(C=C1)S(=O)(=O)Cl
+"5,6,7,8-tetrahydro-1-naphthol",393,33.75,maximum bubble pressure - A,C1CCC2=C(C1)C=CC=C2O
+ethylcyclopentane,278,25.41,differential capillary rise - A,CCC1CCCC1
+3-butenoic acid,323,25.84,Capillary Rise - A,C=CCC(=O)O
+2-chlorodecane,313,26.88,,CCCCCCCCC(C)Cl
+cyclohexyl ethyl ether,333,23.2,differential capillary rise - A,CCOC1CCCCC1
+ethyl 3-butoxypropionate,358,21.4,Maximum Bubble Pressure - A,CCCCOCCC(=O)OCC
+1-octanethiol,293,27.77,capillary rise method - A,CCCCCCCCS
+m-methoxyphenol,373,36.1,maximum bubble pressure - A,COC1=CC=CC(=C1)O
+Butyl Formate,323,21.95,Differential Capillary Rise-A,CCCCOC=O
+1-iodohexane,303,29.09,differential capillary rise method - A,CCCCCCI
+glycerol triacetate,353,31.4,capillary rise method - A,CC(=O)OCC(COC(=O)C)OC(=O)C
+3-ethylhexane,283,22.6,capillary rise method - A,CCCC(CC)CC
+ethyl benzoate,293,35.04,capillary rise method - A,CCOC(=O)C1=CC=CC=C1
+"N-methyl-2,2-iminodiethanol",328,37.7,,CN(CCO)CCO
+allyl succinate,353,27.41,Capillary Rise - A,C=CCOC(=O)CCC(=O)OCC=C
+Hydrogen cyanide,288,18.89,Maximum Bubble Pressure - A,C#N
+dihexyl ethyl phosphonate,313,26.7,maximum bubble pressure - A,CCCCCCOP(CC)OCCCCCC
+4-chloro-4-propylheptane,328,23.12,,CCCC(CCC)(CCC)Cl
+tris(2-pentoxyethyl)phosphite,313,27.9,maximum bubble pressure - A,CCCCCOCCOP(OCCOCCCCC)OCCOCCCCC
+"1,1,2,2-tetrabromoethane",298,48.71,differential capillary rise method - A,C(C(Br)Br)(Br)Br
+"N,N-dimethyl-o-nitroaniline",323,38.11,,CN(C)C1=CC=CC=C1[N+](=O)[O-]
+ethyl methylcarbamate,343,32.17,,CCOC(=O)NC
+nitroethane,283,33.88,maximum bubble pressure method - A,CC[N+](=O)[O-]
+benzenesulfonyl fluoride,313,35.48,,C1=CC=C(C=C1)S(=O)(=O)F
+3-butenoic acid,303,27.83,Capillary Rise - A,C=CCC(=O)O
+"1,1-diisopropoxyethane",293,20.97,minimum bubble pressure - A,CC(C)OC(C)OC(C)C
+"1,2,4-trimethylbenzene",363,22.53,Maximum Bubble Pressure - A,CC1=CC(=C(C=C1)C)C
+Benzene,353,21.2,Maximum Bubble Pressure - A,C1=CC=CC=C1
+"1,3-diiodopropane",313,45.49,,C(CI)CI
+m-ethyltoluene,353,22.45,Maximum Bubble Pressure - A,CCC1=CC=CC(=C1)C
+3-butenoic acid,333,24.85,Capillary Rise - A,C=CCC(=O)O
+"1,2,3-tribromopropane",368,35.95,differential capillary rise method - A,C(C(CBr)Br)Br
+tetradecyl acetate,328,26.98,Maximum bubble pressure - A,CCCCCCCCCCCCCCOC(=O)C
+cyclohexane,293,25.24,Maximum Bubble Pressure - A,C1CCCCC1
+4-hydroxy-4-methyl-2-pentanone,293,31,not given,CC(=O)CC(C)(C)O
+methyl isobutyrate,293,23.73,Differential Capillary Rise-A,CC(C)C(=O)OC
+isobutylbenzene,283,28.43,Maximum Bubble Pressure - A,CC(C)CC1=CC=CC=C1
+cyclohexylamine,363,23.5,,C1CCC(CC1)N
+1-heptene,283,21.29,capillary rise method - N2,CCCCCC=C
+3-hepyloxy-propionitrile,323,27.14,Capillary Rise Method - A,CCCCCCCOCCC#N
+"ethyl trans-decahydro-2,2-naphthalenediacetate",338,30.15,differential capillary rise method ,CC(C1CCC2CCCCC2C1)C(=O)OCC
+1-methyl-3-methylenecyclohexane,323,21.77,differential capillary rise - A,C=C1CCCC(C)C1
+"d-p-mentha-1,8-diene",423,15.56,capillary rise method - A,CC1=CCC(CC1)C(=C)C
+4-ethyl-2-methylhexane,293,21.8,capillary rise method - A,CCC(CC)CC(C)C
+"methyl 3,3-diethylglutarate",358,25.95,differential capillary rise method ,CCCC(CC(=O)OC)C(C)(C)C(=O)OC
+alpha-chlorotoluene,353,30.1,,C1=CC=C(C=C1)CCl
+5-chloro-5-methyldecane,328,24.61,,CCCCCC(C)(CCCC)Cl
+"2,5-dibromothiophene",313,41.34,,C1=C(SC(=C1)Br)Br
+2-heptanone,313,24.53,maximum bubble pressure - A,CCCCCC(=O)C
+"l-p-mentha-1,8-diene",283,28.05,capillary rise method - A,C1=CC(=C(C)C1)C=C
+benzenesulfonyl fluoride,403,25.73,,C1=CC=C(C=C1)S(=O)(=O)F
+ethyl carbanilate,373,31.83,,CCOC(=O)NC1=CC=CC=C1
+ethyl heptanoate,363,19.87,Differential Capillary Rise-A,CCCCCCC(=O)OCC
+dibutyl adipate,343,26.89,differential capillary rise method ,CCCCOC(=O)CCCCC(=O)OCCCC
+"3,6-diethyl-3,6-octanediol",343,27.13,,CCC(CC)(CCC(CC)(CC)O)O
+sec-butyl nicotinate,313,32,Maximum Bubble Pressure - A,CCC(C)OC(=O)C1=CN=CC=C1
+diisopropyl phosphonate,293,26.4,drop weight - A,CC(C)O[P+](=O)OC(C)C
+1-decene,323,21.24,capillary rise method - N2,CCCCCCCCC=C
+allyl propionate,343,20.77,Capillary Rise - A,CCC(=O)OCC=C
+1-phenyl-2-butanone,358,29.72,capillary rise method - A,CCC(=O)CC1=CC=CC=C1
+"d-p-mentha-1,8-diene",313,25.78,capillary rise method - A,CC1=CCC(CC1)C(=C)C
+"ethyl 1,1-cyclohexanediacetate",288,33.93,differential capillary rise method ,CCOC(=O)CC1(CCCCC1)CC(=O)OCC
+bis[2-(2-methoxyethoxy)-ethyl] ether,363,26.8,capillary rise method - A,CC(C1CCC2CCCCC2C1)C(=O)OCC
+1-iodopentane,283,30.4,differential capillary rise method - A,CCCCCI
+methyl 3-pentyloxypropionate,333,24.82,Maximum Bubble Pressure - A,CCCCCOCCC(=O)OC
+3-(dibutylamino)-propionitrile,353,24.16,Capillary Rise Method - A,CCCCN(CCCC)CCC#N
+diisobutyl maleate,353,23.67,Capillary Rise - A,CC(C)COC(=O)C=CC(=O)OCC(C)C
+isobutylcyclopentane,293,24.75,Maximum Bubble Pressure - A,CC(C)CC1CCCC1
+2-propylnaphthalene,358,29.67,maximum bubble pressure - A,CCCC1=CC2=CC=CC=C2C=C1
+ethyl cyclobutanecarboxylate,293,29.86,Maximum Bubble Pressure -A,CCOC(=O)C1CCC1
+o-chloroaniline,323,38.13,,C1=CC=C(C(=C1)N)Cl
+propyl thienyl ketone,358,31.53,,CCCC(=O)C1=CC=CS1
+"2,11-dimethyl-2,11-dodecanediol",343,29.39,,CC(C)(CCCCCCCCC(C)(C)O)O
+octane,393,12.11,capillary rise method - N2,CCCCCCCC
+4-ethyl-4-heptanol,338,22,Maximum Bubble Pressure - A,CCCC(CC)(CCC)O
+cyclohexane,343,19.3,Maximum Bubble Pressure - A,C1CCCCC1
+butyl 3-butenoate,363,19.68,Capillary Rise - A,CCCCOC(=O)CC=C
+2-propanethiol,293,21.91,capillary rise method - A,CC(C)S
+cis-decahydronaphthalene,303,31.01,maximum bubble pressure - A,C1CCC2CCCCC2C1
+perfluoro-2-methyldecahydronaphthalene,298,19.2,,C12(C(C(C(C(C1(F)F)(C(F)(F)F)F)(F)F)(F)F)(C(C(C(C2(F)F)(F)F)(F)F)(F)F)F)F
+1-chloro-4-iodo-benzene,343,36.69,,C1=CC(=CC=C1Cl)I
+o-bromotoluene,423,21.65,,CC1=CC=CC=C1Br
+methyl isovalerate,313,22.16,Differential Capillary Rise-A,CC(C)CC(=O)OC
+butyl hydrocinnamate,333,29.76,capillary rise method - A,CCCCOC(=O)CCC1=CC=CC=C1
+diethyl acetylenedicarboxylate,343,28.15,Differential Capillary Rise - A,CCOC(=O)C#CC(=O)OCC
+1-phenyl-2-butene,293,30.48,maximum bubble pressure - A,CC=CCC1=CC=CC=C1
+veratrole,403,26.1,maximum bubble pressure - A,COC1=CC=CC=C1OC
+propyl pyrotartate,363,23.1,Capillary Rise - A,CCCOC(=O)CC(C)C(=O)O
+perfluorohexane,323,9.1,,C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
+4-ethyl-2-methylhexane,283,22.75,capillary rise method - A,CCC(CC)CC(C)C
+diethyl suberate,323,29.68,differential capillary rise method ,CCOC(=O)CCCCCCC(=O)OCC
+dimethyl phosphonate,293,37.58,maximum bubble pressure - A,CO[P+](=O)OC
+butyl azodiformate,353,25.98,maximum bubble pressure -A ,CC(C)(C)OC(=O)/N=N/C(=O)OC(C)(C)CÊ
+bromoacetic acid,358,36.96,,C(C(=O)O)Br
+bis(2-heptoxyethyl)phosphonate,313,29.52,maximum bubble pressure - A,CCCCCCCOCCOP(=O)OCCOCCCCCCC
+6-benzyl-2-phenylphenol,293,44.12,drop weight - A,C1=CC=C(C=C1)CC2=C(C(=CC=C2)C3=CC=CC=C3)O
+1-phenyldecane,353,25.67,capillary Rise Method - N2,CCCCCCCCCCC1=CC=CC=C1
+butyl crotonate,333,24.01,Capillary Rise - A,CCCCOC(=O)C=CC
+"4,5-dimethyloctane",303,22.54,capillary rise method - A,CCCC(C)C(C)CCC
+1-propylnaphthalene,313,34.85,maximum bubble pressure - A,CCCC1=CC=CC2=CC=CC=C21
+propyl crotonate,303,26.78,Capillary Rise - A,CCCOC(=O)C=CC
+dimethyl DL-tartrate,363,35.15,differential capillary rise method ,C(C(C(C(=O)OC)O)O)C(=O)OC
+2-dodecanol,293,29.16,Maximum Bubble Pressure -A,CCCCCCCCCCC(C)O
+4-heptanone,343,22.26,maximum bubble pressure A,CCCC(=O)CCC
+phenylhydrazine,313,42.97,,C1=CC=C(C=C1)NN
+bromodichloromethane,358,24.11,differential capillary rise method - A,C(Cl)(Cl)Br
+propyl propylxanthate,288,33.34,Capillary Rise Mpropod - A,CCCOC(=S)SCCC
+diethyl O-octanoyl-l-malate,373,23.06,differential capillary rise method ,CCCCCCCC(=O)OC(C(=O)OCC)C(=O)OCC
+4-methoxyazobenzene,363,37.1,maximum bubble pressure - A,COC1=CC=C(C=C1)N=NC2=CC=CC=C2
+"2,4-hexanedione",288,30.72,Max Bubble Pressure - A,CCC(=O)CC(=O)C
+heptyl 2-naphthoate,333,33.08,maximum bubble pressure - A,CCCCCCCOC(=O)c1ccc2ccccc2c1
+di-sec-butylamine,333,18.7,,CCC(C)NC(C)CC
+1-iodo-2-methylpropane,303,27.04,differential capillary rise method - A,CC(C)CI
+dipentyl succinate,333,27.06,differential capillary rise method ,CCCCCOC(=O)CCC(=O)OCCCCC
+isonicotinaldehyde,358,40.22,maximum bubble pressure - A,C1=CN=CC=C1C=O
+isopropyl disulfide,363,21.75,Capillary rise method - A,CC(C)SSC(C)C
+diheptyl ether,303,26.14,capillary rise method - A,CCCCCCCOCCCCCCC
+alpha-(o-chlorophenyl)-p-cresol benzoate,313,41.61,,C1=CC=C(C=C1)C(=O)OC2=CC=C(C=C2)CC3=CC=CC=C3Cl
+acetone ketazine,298,26.13,maximum bubble pressure A,CC(=NN=C(C)C)C
+4-methyl-2-pentanol,298,22.62,capillary rise method - v,CC(C)CC(C)O
+ethyl octanoate,333,23.55,Differential Capillary Rise-A,CCCCCCCC(=O)OCC
+ethyl carbanilate,413,27.13,,CCOC(=O)NC1=CC=CC=C1
+isobutyl sulfide,313,23.11,Capillary rise method - A,CC(C)CSCC(C)C
+glycerol 1-stearate,413,16.29,capillary pressure,CCCCCCCCCCCCCCCCCC(=O)OCC(CO)O
+diethyl O-decanoyl-l-malate,343,25.8,differential capillary rise method ,CCCCCCCCCC(=O)OCC(=O)OCC
+Ethyl 2-cyano-3-propylcrotonate,373,25.77,Capillary Rise Method - A,CCC/C(=C(/C#N)\C(=O)OCC)/C
+trans-decahydronaphthalene,293,29.89,maximum bubble pressure - A,C1CCC2CCCCC2C1
+bromoacetic acid,328,40.3,,C(C(=O)O)Br
+butyl iodoacetate,323,30.23,capillary rise method - A,CCCCOC(=O)CI
+m-fluorotoluene,363,21,,CC1=CC(=CC=C1)F
+methyl acetoacetate,323,30.26,Maximum Bubble Pressure - N2,CC(=O)CC(=O)OC
+2-methylpropene,233,19.98,capillary rise method - v,CC(=C)C
+p-fluorotoluene,323,24.89,,CC1=CC=C(C=C1)F
+cis-decahydronaphthalene,273,34.5,maximum bubble pressure - A,C1CCC2CCCCC2C1
+o-chloroaniline,433,28.59,,C1=CC=C(C(=C1)N)Cl
+isopropyl acetate,303,21.2,Differential Capillary Rise-A,CC(C)OC(=O)C
+triheptyl phosphite,313,26.56,maximum bubble pressure - A,CCCCCCCOP(OCCCCCCC)OCCCCCCC
+ethyl fumarate,303,30.73,Capillary Rise - A,CCOC(=O)C=CC(=O)O
+"ethyl-1,1-cyclopropanecarboxylic acid",283,32.46,Capillary Rise Method - A,CCOC(=O)C1(CC1)
+adiponitrile,333,42.04,maximum bubble pressure - A,C(CCC#N)CC#N
+dipentyl malonate,303,27.5,Drop Weight - A,CCCCCOC(=O)CC(=O)OCCCCC
+3-dodecanol,343,24.49,Maximum Bubble Pressure -A,CCCCCCCCCC(CC)O
+1-tridecene,363,20.06,capillary rise method - N2,CCCCCCCCCCCC=C
+ethyl dodecanoate,363,22.28,Differential Capillary Rise-A,CCCCCCCCCCCC(=O)OCC
+dipropyl carbonate,343,21.83,Maximum Bubble Pressure -A,CCCOC(=O)OCCC
+bis[2-(2-methoxyethoxy)-ethyl] ether,298,33.41,capillary rise method - A,CC(C1CCC2CCCCC2C1)C(=O)OCC
+Methyl formate,333,18.86,Differential Capillary Rise-A,COC=O
+cyclopropanecarboxylic acid,363,27.14,Capillary Rise Method - A,C1CC1C(=O)O
+bromodichloromethane,348,25.4,differential capillary rise method - A,C(Cl)(Cl)Br
+acetone O-propyloxime,298,23.12,Maximum bubble pressure - A,CCCON=C(C)C
+pyridazine,313,46.41,maximum bubble pressure - A,C1=CC=NN=C1
+"m-mentha-1,8-(9)-diene",353,21.13,Maximum bubble pressure - N2,CC1=CC(CC(C1)C(=C)C)C=C
+perfluoro-2-methylbutane,298,10.01,,C(C(C(F)(F)F)(F)F)(C(F)(F)F)(C(F)(F)F)F
+phenyl ether,303,26.36,capillary rise method - A,C1=CC=C(C=C1)OC2=CC=CC=C2
+diheptyl ethyl phosphonate,293,28.47,maximum bubble pressure - A,CCCCCCCOP(CC)OCCCCCCC
+Paraldehyde,313,24.03,Drop Weight-A,CC1OC(OC(O1)C)C
+1-chlorononane,343,23.58,differential capillary rise method - A,CCCCCCCCCCl
+diethyl O-butyryl-l-malate,373,23.26,differential capillary rise method ,C(=O)CCCCC(=O)OCC
+p-tolunitrile,333,33.19,Capillary Rise Method - A,CC1=CC=C(C=C1)C#N
+"2,2,3,3,4,4,5,5-octafluoro-1-pentanol",293,24.5,,C(C(C(C(C(F)F)(F)F)(F)F)(F)F)O
+p-chlorotoluene,363,25.19,,CC1=CC=C(C=C1)Cl
+"2,2,4-trimethylpentane",333,15.23,capillary rise method - A,CC(C)CC(C)(C)C
+ethylenediamine,363,32.19,,C(CN)N
+butyl naphthoate,313,36.44,maximum bubble pressure - A,CCCCOC(=O)C1=CC=CC2=CC=CC=C21
+butyl methyl sulfide,293,26.23,Capillary rise method - A,CCCCSC
+phenyl propyl ether,303,31.1,capillary rise method - A,CCCOC1=CC=CC=C1
+butyl 3-butenoate,343,21.65,Capillary Rise - A,CCCCOC(=O)CC=C
+"labile Ethyl 3-methyl-2-cyclopropene-1,2-dicarboxylate",313,32.32,Maximum Bubble Pressure -A,CC1(C=C1C(=O)OCC)C(=O)OCC
+cyclopentyl formate,313,29.48,differential capillary rise - A,C1CCC(C1)OC=O
+1-phenyl-2-butanone,293,36.57,capillary rise method - A,CCC(=O)CC1=CC=CC=C1
+tris(2-hexoxyethyl)phosphite,358,24.41,maximum bubble pressure - A,CCCCCCOCCOP(OCCOCCCCCC)OCCOCCCCCC
+2-methyl-2-butene,293,17.64,Capillary Rise Method - V,CC=C(C)C
+isobutylcyclopentane,333,21.08,Maximum Bubble Pressure - A,CC(C)CC1CCCC1
+(2-bromoethyl)-benzene,343,33.42,,C1=CC=C(C=C1)CCBr
+o-chloranisole,423,23.9,,COC1=CC=CC=C1Cl
+tert-butylcyclohexane,293,26.66,Maximum Bubble Pressure - A,CC(C)(C)C1CCCCC1
+trans-decahydronaphthalene,353,23.95,maximum bubble pressure - A,C1CCC2CCCCC2C1
+hexyl 2-naphthoate,358,31.44,maximum bubble pressure - A,CCCCCCOC(=O)C1=CC2=CC=CC=C2C=C1
+dipentyl malonate,363,22.7,Drop Weight - A,CCCCCOC(=O)CC(=O)OCCCCC
+resorcinol,403,45.5,maximum bubble pressure - A,C1=CC(=CC(=C1)O)O
+hexyl 1-naphthaleneacetate,333,32.51,maximum bubble pressure - A,CCCCCCOC(=O)CC1=CC=CC2=CC=CC=C21
+"3-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3-buten-2-one",293,30.57,capillary rise method - A,CC1=CCCC(C1C=C(C)C(=O)C)(C)C
+diisobutyl carbonate,333,21.6,Maximum Bubble Pressure -A,CC(C)COC(=O)OCC(C)C
+"ethyl 1,1-cyclohexanediacetate",348,28.27,differential capillary rise method ,CCOC(=O)CC1(CCCCC1)CC(=O)OCC
+octane,303,20.67,capillary rise method - N2,CCCCCCCC
+ethyl benzoate,343,29.75,capillary rise method - A,CCOC(=O)C1=CC=CC=C1
+octyl sulfide,363,23.69,Capillary rise method - A,CCCCCCCCSCCCCCCCC
+glycerol tributyrate,403,23.38,maximum bubble pressure - N2,CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC
+2-(2-octyloxyethoxy)ethanol,293,30.7,capillary rise method - A,CCCCCCCCOCCOCCO
+dibutyl acetylenedicarboxylate,343,27.22,Differential Capillary Rise - A,CCCCOC(=O)C#CC(=O)OCCCC
+Propyl propioate,323,21.56,Differential Capillary Rise-A,CCC(=O)OCCC
+cumene,283,29.27,Capillary Rise Method - A,CC(C)C1=CC=CC=C1
+"2,3,3-trimethylpentane",298,21.12,capillary rise method - A,CCC(C)(C)C(C)C
+n-methylaniline,333,33.5,,CNC1=CC=CC=C1
+butyl methyl sulfide,313,24.15,Capillary rise method - A,CCCCSC
+1-bromononane,283,30.47,differential capillary rise method - A,CCCCCCCCCBr
+propyl 1-naphthyl ketone,313,39.64,maximum bubble pressure - A,CCCC(=O)c1cccc2ccccc12
+decanenitrile,353,22.99,Capillary Rise Method - A,CCCCCCCCCC#N
+3-(ethylamino)-propionitrile,298,32.35,Capillary Rise Method - A,CCNCCC#N
+4-ethyl-2-methylhexane,298,21.32,capillary rise method - A,CCC(CC)CC(C)C
+"4,4'-azoxydiphenetole ",471,26.4,ring detachment,CCOC1=CC=C(C=C1)N=[N+](C2=CC=C(C=C2)OCC)[O-]
+"N,N-dipropylaniline",313,30.98,,CCCN(CCC)C1=CC=CC=C1
+p-chlorophenol,403,32.4,,C1=CC(=CC=C1O)Cl
+2-methyl-3-pentanol,298,24.14,capillary rise method - v,CCC(C(C)C)O
+Methyl Palmitate,313,28.4,Capillary Pressure Method,CCCCCCCCCCCCCCCC(=O)OC
+methanesulfonic acid,298,50.05,Capillary Rise Method - V,CS(=O)(=O)O
+diethyl benzylmalonate,343,31.05,differential capillary rise method ,CCOC(=O)C(CC1=CC=CC=C1)C(=O)OCC
+2-ethyl-pyridine,293,32.01,Maximum Bubble Pressure - A,CCC1=CC=CC=N1
+"glycerol 1,3-dioleate 2-palmitate",313,25.6,capillary pressure - A,CCCCCCCCCCCCCCCC(=O)OCC(OC(=O)CCCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCCC
+4-(1-propylbutyl)-pyridine,293,31.46,Maximum Bubble Pressure - A,CCCC(CCC)C1=CC=NC=C1
+"1,1-dibutylhydrazine",298,25.71,,CCCCN(CCCC)N
+p-dichlorobenzene,353,27.63,,C1=CC(=CC=C1Cl)Cl
+"2,6-dimethylheptane",293,21,capillary rise method - A,CC(C)CCCC(C)C
+phenylhydrazine,323,41.68,,C1=CC=C(C=C1)NN
+n-butylaniline,323,31.29,,CCCCNC1=CC=CC=C1
+Ethyl 2-cyano-3-methylhexanoate,393,21.41,Capillary Rise Method - A,CCCC(C)C(C#N)C(=O)OCC
+ethyl propyl carbonate,323,23.58,Maximum Bubble Pressure -A,CCCOC(=O)OCC
+Acetylene,193,18.9,capillary rise method - v,C#C
+4-ethylheptane,323,20.01,capillary rise method - A,CCCC(CC)CCC
+"alpha,beta,beta-trimethylstyrene",293,32.04,maximum bubble pressure - A,CC(=C(C)C1=CC=CC=C1)C
+"3,5-dimethyl-pyridine",358,26.79,Maximum Bubble Pressure - A,CC1=CC(=CN=C1)C
+"1,1-diisobutoxyethane",313,20.63,capillary rise,CC(C)COC(C)OCC(C)C
+4-ethyl-pyridine,313,33.15,Maximum Bubble Pressure - A,CCC1=CC=NC=C1
+butyl 3-pentyloxypropionate,293,27.35,Maximum Bubble Pressure - A,CCCCCOCCC(=O)OCCCC
+cycloheptanone,323,31.5,differential capillary rise - A,C1CCCC(=O)CC1
+ethyl undecenoate,293,29.24,Capillary Rise - A,CCOC(=O)CCCCCCCCC=C
+propyl 3-heptyloxypropionate,333,24.52,Maximum Bubble Pressure - A,CCCCCCCOCCC(=O)OCCC
+"1,2,3-tribromopropane",318,42.29,differential capillary rise method - A,C(C(CBr)Br)Br
+ethyl chloroformate,313,24.6,capillary rise method - A,CCOC(=O)Cl
+fluoroacetic acid,313,37.76,,C(C(=O)O)F
+diisopentyl maleate,343,24.88,Capillary Rise - A,CC(C)CCOC(=O)C=CC(=O)OCCC(C)C
+trichloroacetic acid,413,22.9,,C(=O)(C(Cl)(Cl)Cl)O
+ethyl hexanoate,353,20.05,Differential Capillary Rise-A,CCCCCC(=O)OCC
+diisopropyl acetylenedicarboxylate,303,29.75,Differential Capillary Rise - A,CC(C)OC(=O)C#CC(=O)OC(C)C
+"1,2-dimethoxy-4,5-dinitrobenzene",413,40.11,maximum bubble pressure - N2,COC1=C(C=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-])OC
+butyl ethyl ether,333,16.46,capillary rise method - A,CCCCOCC
+pentadecyl formate,338,26.69,Maximum bubble pressure - A,CCCCCCCCCCCCCCCOC=O
+1-octene,373,14.1,capillary rise method - N2,CCCCCCC=C
+"ethyl-1,1-cyclopropanecarboxylic acid",373,23.76,Capillary Rise Method - A,CCOC(=O)C1(CC1)
+isopropyl phenyl ether,323,27.65,capillary rise method - A,CC(C)OC1=CC=CC=C1
+p-cresol,403,26.54,capillary rise method - A,CC1=CC=C(C=C1)O
+methyl 3-methylglutarate,318,31.06,differential capillary rise method ,CC(CC(=O)[O-])CC(=O)OC
+1-fluoro-octane,353,18.41,differential capillary rise method - A,CCCCCCCCF
+phenyl isothiocyanate,353,34.04,,C1=CC=C(C=C1)N=C=S
+pentyl crotonate,313,26.37,Capillary Rise - A,CCCCCOC(=O)/C=C/C
+3-pentanone oxime,333,25.17,maximum bubble pressure -A ,CCC(=NO)CC
+3-methyl-1-pentanol,308,24.16,capillary rise method - v,CCC(C)CCO
+p-chloranisole,403,35.1,,COC1=CC=C(C=C1)Cl
+"methyl 1,1-cyclopentanedicarboxylate",323,31.83,Maximum Bubble Pressure -A,CCOC(=O)C1(CCCC1)C(=O)OC
+methyl 3-ethyl-3-propylglutarate,358,25.53,differential capillary rise method ,CCCC(C(CC(=O)OC)CC(=O)OC)(CC)
+isobutyl valerate,303,22.57,Differential Capillary Rise-A,CCCCC(=O)OCC(C)C
+butyl dichloroacetate,323,27.5,capillary rise method - A,CCCCOC(=O)C(Cl)Cl
+"2,2,3-trimethylpentane",293,18.75,capillary rise method - A,CCC(C)C(C)(C)C
+butyl 3-hexyloxypropionate,358,22.44,Maximum Bubble Pressure - A,CCCCCCOCCC(=O)OCCCC
+heptyl picolinate,293,33.35,Maximum Bubble Pressure - A,CCCCCCCOC(=O)C1=CC=CC=N1
+propyl sulfide,333,22.15,Capillary rise method - A,CCCSCCC
+butyl chloroacetate,313,28.25,capillary rise method - A,CCCCOC(=O)CCl
+hexyl phenyl ether,288,31.66,capillary rise method - A,CCCCCCOC1=CC=CC=C1
+cyclohexane,313,23.87,Maximum Bubble Pressure - A,C1CCCCC1
+"3-ethyl-2,4-dimethylpentane",313,20.93,capillary rise method - A,CCC(C(C)C)C(C)C
+dihexyl ether,353,20.54,capillary rise method - A,CCCCCCOCCCCCC
+2-methl-2-butanol,283,23.43,Capillary rise method,CCC(C)(C)O
+"1,2-dichloroethane",333,26.06,,C(CCl)Cl
+4-heptanone,363,21.53,maximum bubble pressure A,CCCC(=O)CCC
+butyl 1-naphthyl ketone,333,36.16,maximum bubble pressure - A,CCCCC(=O)c1cccc2ccccc12
+propyl valerate,323,22.82,Differential Capillary Rise-A,CCCCC(=O)OCCC
+2-butoxyethanol,303,25.73,Capillary rise method,CCCCOCCO
+2-pentanone,298,23.26,maximum bubble pressure - A,CCCC(=O)C
+diethyl pentylmalonate,363,22.6,differential capillary rise method ,CCCCCC(C(=O)OCC)C(=O)OCC
+butyl thiocyanate,333,28.16,,CCCCSC#N
+octadecane,363,22.73,capillary rise method - N2,CCCCCCCCCCCCCCCCCC
+m-Hydroxybenzaldehyde,473,34.15,Maximum Bubble Pressure - A,C1=CC(=CC(=C1)O)C=O
+acetonitrile,313,26.77,Capillary Rise Method - A,CC#N
+ethyl citraconate,303,31.14,Capillary Rise - A,C/C(=C\C(=O)OCC)/C(=O)OCC
+"methyl-1,1-cyclopropanecarboxylic acid",373,26.97,Capillary Rise Method - A,CC1(CC1)C(=O)O
+epichlorohydrin,373,26.16,,C1C(O1)CCl
+allyl butyrate,353,19.9,Capillary Rise - A,CCCC(=O)OCC=C
+methanesulfonic acid,348,45.58,Capillary Rise Method - V,CS(=O)(=O)O
+dipentyl ether,363,18.22,capillary rise method - A,CCCCCOCCCCC
+isobutyl ricinoleate,373,25.37,Differential Capillary Rise-A,CCCCCCC(CC=CCCCCCCCC(=O)OCC(C)C)O
+1-octylnaphthalene,313,32.67,maximum bubble pressure - A,CCCCCCCCC1=CC=CC2=CC=CC=C21
+dipropylamine,293,22.82,,CCCNCCC
+(2-bromoethyl)-benzene,433,23.52,,C1=CC=C(C=C1)CCBr
+p-methoxyphenol,413,33.4,maximum bubble pressure - A,COC1=CC=C(C=C1)O
+tetrahydrothiophene oxide,313,47.01,,C1CCS(=O)C1
+"2,2,3,3-tetramethylpentane",303,22.49,capillary rise method - A,CCC(C)(C)C(C)(C)C
+propyl chloroacetate,333,26.41,capillary rise method - A,CCCOC(=O)CCl
+diethyl malonate,293,31.83,differential capillary rise method ,CCOC(=O)CC(=O)OCC
+dibutyl oxalate,363,23.25,differential capillary rise method ,CCCCOC(=O)C(=O)OCCCC
+2-butoxyethanol,353,21.05,Capillary rise method,CCCCOCCO
+3-ethylhexane,353,15.74,capillary rise method - A,CCCC(CC)CC
+1-phenyl-3-hexanone,303,33.85,capillary rise method - A,CCCC(=O)CCC1=CC=CC=C1
+isopropyl phenyl ether,363,23.43,capillary rise method - A,CC(C)OC1=CC=CC=C1
+propyl 3-butenoate,288,26.81,Capillary Rise - A,CCCOC(=O)CC=C
+trans-decahydro-2methylenenapthalene,293,30.84,differential capillary rise - A,CC1CCCC2C1CCCC2
+diethyl phosphonate,333,26.79,maximum bubble pressure - A,CCO[P+](=O)OCC
+"3-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-butanol acetate",313,27.62,capillary rise method - A,CC1=CCCC(C1CC(C)C(OC(C)=O)C)(C)C
+ethyl isobutyrate,313,21.15,Differential Capillary Rise-A,CCOC(=O)C(C)C
+Benzene,293,28.88,Maximum Bubble Pressure - A,C1=CC=CC=C1
+cis-decahydronaphthalene,443,18.04,maximum bubble pressure - A,C1CCC2CCCCC2C1
+tetrahydrothiopyran,293,36.11,,C1CCSCC1
+1-bromopropane,303,23.84,differential capillary rise method - A,CCCBr
+2-bromopropane,323,20.29,differential capillary rise method - A,CC(C)Br
+butyl 2-naphthaleneacetate,333,34.18,maximum bubble pressure - A,CCCCOC(=O)Cc1cccc2ccccc12
+trichloronitromethane,343,25.71,,C([N+](=O)[O-])(Cl)(Cl)Cl
+dipropoxymethane,313,21.36,capillary rise,CCCOCOCCC
+1-decene,373,16.65,capillary rise method - N2,CCCCCCCCC=C
+Acetic anhydride,323,28.34,capillary rise method,CC(=O)OC(=O)C
+pentyl 3-butenoate,313,24.89,Capillary Rise - A,CCCCCOC(=O)CC=C
+"methyl 3-methyl-1,1-cyclopentanediacetate",318,30.39,differential capillary rise method ,COC(=O)CC1(C)CC(C)CC1C(=O)OC
+"1,1-diemthoxyethane",303,20.42,capillary rise,CC(OC)OC
+dibutyl propylmalonate,323,25.82,differential capillary rise method ,CCCCOC(=O)C(CCC)C(=O)OCCCC
+pentyl orthophosphate,358,23.63,maximum bubble pressure - A,O=P(OCCCCC)(OCCCCC)OCCCCCÊ
+hexacosane,393,22.66,capillary rise method - N2,CCCCCCCCCCCCCCCCCCCCCCCCCC
+1-chloro-4-iodo-benzene,413,29.54,,C1=CC(=CC=C1Cl)I
+"1,5-diiodopentane",333,41.17,,C(CCI)CCI
+p-dioxane,313,30.67,capillary rise -v ,C1COCCO1
+"1,5-dibromopentane",358,33.2,,C(CCBr)CCBr
+dipropyl butylphosphonate,333,24.5,maximum bubble pressure - A,CCCCP(=O)(OCCC)OCCC
+cis-decahydronaphthalene,283,33.36,maximum bubble pressure - A,C1CCC2CCCCC2C1
+methanethiol,293,24.7,capillary rise method - A,CS
+2-methyloctane,313,20,capillary rise method - A,CCCCCCC(C)C
+heptenal oxime,343,24.29,capillary rise method - A,CCCCCCC=NO
+4-methylvaleronitrile,343,22.48,Capillary Rise Method - A,CC(C)CCC#N
+1-acetonaphthone,358,39.06,maximum bubble pressure - A,CC(=O)C1=CC=CC2=CC=CC=C21
+propyl orthoformate,318,22.45,capillary rise method - A,CCCOC(OCCC)OCCC
+1-Octyne,333,19.7,Maximum Bubble Pressure - A,CCCCCCC#C
+2-chloro-2-methylpropane,298,18.3,,CC(C)(C)Cl
+4-pentyl-pyridine,333,28.48,Maximum Bubble Pressure - A,CCCCCC1=CC=NC=C1
+1-chloroundecane,323,26.6,differential capillary rise method - A,CCCCCCCCCCCCl
+3-methylcyclopentanone,323,26.81,differential capillary rise - A,CC1CCC(=O)C1
+3-hexanone oxime,298,28.25,maximum bubble pressure -A ,CCC/C(=N\O)/CC
+n-butylaniline,313,32.17,,CCCCNC1=CC=CC=C1
+tert-butyl acetate,323,19.18,Differential Capillary Rise-A,CC(=O)OC(C)(C)C
+1-bromotetradecane,323,28.54,differential capillary rise method - A,CCCCCCCCCCCCCCBr
+propyl thiocyanate,333,28.57,,CCCSC#N
+3-ethyl-3-hexanol,328,22.88,Maximum Bubble Pressure - A,CCCC(CC)(CC)O
+m-nitrotoluene,313,39.07,maximum bubble pressure - A,CC1=CC(=CC=C1)[N+](=O)[O-]
+3-butoxypropionitrile,363,23.91,Capillary Rise Method - A,CCCCOCCC#N
+isopentyl crotonate,353,21.62,Capillary Rise - A,C/C=C/C(=O)OCCC(C)C
+hexacosane,413,21.2,capillary rise method - N2,CCCCCCCCCCCCCCCCCCCCCCCCCC
+dihexyl oxalate,293,30.45,Maximum Bubble Pressure - A,CCCCCCOC(=O)C(=O)OCCCCCC
+propane,203,15.34,capillary rise method - v,CCC
+2-iodopropane,283,28.24,differential capillary rise method - A,CC(C)I
+Ethyl Sulfate,333,29.61,Capillary Rise Method - A,CCOS(=O)(=O)O
+"2-propyn-1-ol, formate",333,29.34,Maximum Bubble Pressure - A,C#CCOC=O
+3-nonanone,323,24.59,capillary rise method - A,CCCCCCC(=O)CC
+pentyl fumarate,343,26.45,Capillary Rise - A,CCCCCOC(=O)C=CC(=O)O
+butylamine,333,20.63,,CCCCN
+ethyl methylcarbamate,313,35.88,,CCOC(=O)NC
+butyl nitrate,298,27.53,capillary rise method - A,CCCCO[N+](=O)[O-]
+glycerol triacetate,293,36.26,capillary rise method - A,CC(=O)OCC(COC(=O)C)OC(=O)C
+"3,3-diethylpentane",333,20.08,capillary rise method - A,CCC(CC)(CC)CC
+dimethyl ethylmalonate,343,26.69,differential capillary rise method ,CCC(C(=O)OC)C(=O)OC
+butyl butoxyacetate,333,23.83,Maximum Bubble Pressure - A,CCCCOCC(=O)OCCCC
+3-pentanone O-propyloxime,313,22.75,Maximum bubble pressure - A,CCCON=C(CC)CC
+propyl naphthoate,358,33.44,maximum bubble pressure - A,CCCOC(=O)c1cccc2ccccc12
+dimethyl glutarate,353,29.14,differential capillary rise method ,COC(=O)CCCC(=O)OC
+3-methyl-2-pentanol,328,22.09,capillary rise method - v,CCC(C)C(C)O
+dimethyl maleate,363,29.75,Capillary Rise - A,COC(=O)C=CC(=O)OC
+2-methyl-2-butene,253,22.24,Capillary Rise Method - V,CC=C(C)C
+"diethyl 1,1-cyclobutanedicarboxylate",373,23.13,Capillary Rise Method - A,CCOC(=O)C1(CCC1)C(=O)OCC
+iodoethane,333,23.95,differential capillary rise method - A,CCI
+bromoform,298,44.87,differential capillary rise method - A,C(Br)(Br)Br
+2-hexanone,318,23.27,maximum bubble pressure - A,CCCCC(=O)C
+"2,2,3,4-tetramethylpentane",303,21.12,capillary rise method - A,CC(C)C(C)C(C)(C)C
+methyl diethylmalonate,323,27.77,differential capillary rise method ,CCC(CC)(C(=O)OC)C(=O)OC
+2-butanone oxime,288,30.36,maximum bubble pressure -A ,CCC(=NO)C
+butyl 3-butynoate,333,25.4,Differential Capillary Rise - A,CCCCOC(=O)CC#C
+"glycerol 1,3-dipalmitate",403,19.84,capillary pressure - A,CCCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCCCC)O
+trichloroacetic acid,453,19.3,,C(=O)(C(Cl)(Cl)Cl)O
+azine of anisaldehyde,467,29.25,horizontal capillary pressure - A,COc1ccc(C=NN=Cc2ccc(OC)cc2)cc1
+isopentyl sulfide,343,21.85,Capillary rise method - A,CC(C)CCSCCC(C)C
+"N,N-dimethylaniline",323,32.89,,CN(C)C1=CC=CC=C1
+Ethyl salicylate,463,20.27,Capillary Rise Method - A,CCOC(=O)C1=CC=CC=C1O
+p-dibromobenzene,383,30.76,,C1=CC(=CC=C1Br)Br
+butyl decanoate,283,29.41,Differential Capillary Rise-A,CCCCCCCCCC(=O)OCCCC
+methyl 3-heptyloxypropionate,333,25.03,Maximum Bubble Pressure - A,CCCCCCCOCCC(=O)OC
+butyl picolinate,293,35.86,Maximum Bubble Pressure - A,CCCCOC(=O)C1=CC=CC=N1
+decamethylene nitrate,318,36.6,maximum bubble pressure - A,C1CCCCC(CCCC1)O[N+](=O)[O-]
+dipentyl phosphonate,313,26.9,maximum bubble pressure - A,CCCCCO[P+](=O)OCCCCC
+2-methylcyclohexanone,373,23.79,differential capillary rise - A,CC1CCCCC1=O
+Ethyl orthoformate,338,19.15,capillary rise method - A,CCOC(OCC)OCC
+methyl undecenoate,288,30.4,Capillary Rise - A,COC(=O)CCCCCCCCC=C
+"2-Butyne-1,4-diol, dibutyrate",333,29.69,Maximum Bubble Pressure - A,CCCC(=O)OCC#CCOC(=O)CCC
+Methyl Cyanoacetate,348,33.26,Capillary Rise Method - A,COC(=O)CC#N
+diethyl (bromoethyl)-malonate,288,31.2,,CCOC(=O)C(CCBr)C(=O)OCC
+heptyl 1-naphthyl ketone,293,36.77,maximum bubble pressure - A,CCCCCCCC(=O)C1=CC=CC2=CC=CC=C21
+fluorobenzene,323,23.65,,C1=CC=C(C=C1)F
+3-hexanone,303,24.5,maximum bubble pressure - A,CCCC(=O)CC
+propyl dodecanoate,293,28.81,Differential Capillary Rise-A,CCCCCCCCCCCC(=O)OCCC
+1-fluoroheptane,353,16.66,differential capillary rise method - A,CCCCCCCF
+Methyl Palmitate,363,24.52,Capillary Pressure Method,CCCCCCCCCCCCCCCC(=O)OC
+dipentyl phthalate,283,31.82,Capillary Rise Method - A,CCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCC
+pentylamine,363,18.04,,CCCCCN
+m-(trifluoromethyl)benzyl perfluorobutyrate,299.5,24.8,,C1=CC(=CC(=C1)C(F)(F)F)COC(=O)C(C(C(F)(F)F)(F)F)(F)F
+acetone O-ethyloxime,333,18.08,Maximum bubble pressure - A,CCON=C(C)C
+methyl 2-naphthaleneacetate,358,36.03,maximum bubble pressure - A,Cc1ccc2ccccc2c1CC(=O)OC
+isobutyl fumarate,303,28.07,Capillary Rise - A,CC(C)COC(=O)/C=C/C(=O)O
+ethyl hexanoate,363,19.09,Differential Capillary Rise-A,CCCCCC(=O)OCC
+4-ethyl-4-heptanol,328,22.8,Maximum Bubble Pressure - A,CCCC(CC)(CCC)O
+"2,2,4-trimethylhexane",283,21.35,capillary rise method - A,CCC(C)CC(C)(C)C
+diisopentylamine,333,20.89,,CC(C)CCNCCC(C)C
+methyl 3-heptyloxypropionate,293,28.33,Maximum Bubble Pressure - A,CCCCCCCOCCC(=O)OC
+pentyl thienyl ketone,313,33.08,,CCCCCC(=O)C1=CC=CS1
+"ethyl 3-methyl-1,1-cyclohexanediacetate",338,27.55,differential capillary rise method ,CC(=O)OCC1(CCCCC1)CC(=O)OCC
+5-chlorodecane,353,22.86,,CCCCCC(CCCC)Cl
+triphenylphosphine,498,24.7,capillary rise method - A,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3
+propyl undecenoate,333,25.8,Capillary Rise - A,CCCCCCCCC=CC(=O)OCCC
+propyl butyrate,363,18.06,Differential Capillary Rise-A,CCCC(=O)OCCC
+heptamethylene nitrate,288,40.6,maximum bubble pressure - A,C1CCCC(CC1)O[N+](=O)[O-]
+ethyl thienyl ketone,293,39.55,,CCC(=O)C1=CC=CS1
+propyl 3-pentyloxypropionate,333,23.99,Maximum Bubble Pressure - A,CCCCCOCCC(=O)OCCC
+decyl hexanoate,308,27.66,Maximum bubble pressure - A,CCCCCCCCCCOC(=O)CCCCC
+2-methyl-pyridine,358,25.54,Maximum Bubble Pressure - A,CC1=CC=CC=N1
+phenyl acetonitrile,313,39.95,Capillary Rise Method - A,C1=CC=C(C=C1)CC#N
+1-chloropentane,353,18.48,differential capillary rise method - A,CCCCCCl
+methyl propionate,283,26.32,Differential Capillary Rise-A,CCC(=O)OC
+alpha-campholenic acid,293,35.12,Maximum Bubble Pressure - N2,CC1=CCC(C1(C)C)CC(=O)O
+Dodecyl alcohol,303,28.96,Maximum Bubble Pressure -A,CCCCCCCCCCCCO
+"2-propyn-1-ol, formate",313,32.17,Maximum Bubble Pressure - A,C#CCOC=O
+ethyl pentyl ether,303,21.21,capillary rise method - A,CCCCCOCC
+tetrahydrothiopyran,313,33.66,,C1CCSCC1
+3-hexanone O-propyloxime,363,18.03,Maximum bubble pressure - A,CCCC(=NOCCC)CC
+dipentyloxymethane,343,21.31,capillary rise,CCCCCOCOCCCCC
+2-chloro-alpha-phenyl-p-cresol,333,40.15,,C1=CC=C(C=C1)CC2=CC(=C(C=C2)O)Cl
+pentyl cyclopropane,303,28.09,capillary rise method - A,CCCCCC1CC1
+"Ethyl 2-cyano-3,3-diethylacrylate",393,23.76,Capillary Rise Method - A,CCC(=C(C#N)C(=O)OCC)CC
+"methyl trans-hexahydro-2,2-indandiacetate",358,29.62,differential capillary rise method ,CC12CCCCC1CC(C(=O)OC)C2C(=O)O
+undecyl valerate,328,26.03,Maximum bubble pressure - A,CCCCCCCCCCCOC(=O)CCCC
+"ethyl 4-methyl-1,1-cyclohexanediacetate",308,30.42,differential capillary rise method ,CC(=O)OCC1CCC(CC(=O)OCC)C1C
+iodoacetic acid,368,37.35,,C(C(=O)O)I
+Methyl Sulfate,313,36.61,Capillary Rise Method - A,COS(=O)(=O)O
+1-tetradecene,298,26.36,capillary rise method - N2,CCCCCCCCCCCCC=C
+4-heptanone O-propyloxime,303,24.04,Maximum bubble pressure - A,CCCC(=NOCCC)CCC
+1-bromodecane,333,26.13,differential capillary rise method - A,CCCCCCCCCCBr
+cyclopentanone,293,33.35,differential capillary rise - A,C1CCC(=O)C1
+"2,4-xylenol",393,24.15,maximum bubble pressure - A,CC1=CC(=C(C=C1)O)C
+methanesulfonic acid,338,46.48,Capillary Rise Method - V,CS(=O)(=O)O
+"2-Butyne-1,4-diol, dihexanoate",313,29.86,Maximum Bubble Pressure - A,CCCCCC(=O)OCC#CCOC(=O)CCCCC
+2-methyl-1-butene,293,16.51,capillary rise method - N2,CCC(=C)C
+diisopropyl succinate,323,25.45,differential capillary rise method ,CC(C)OC(=O)CCC(=O)OC(C)C
+2-furaldehyde,293,43.76,capillary rise method,C1=COC(=C1)C=O
+1-bromodecane,323,26.98,differential capillary rise method - A,CCCCCCCCCCBr
+isobutylcyclopentane,313,22.91,Maximum Bubble Pressure - A,CC(C)CC1CCCC1
+isobutylcyclohexane,303,24.87,Maximum Bubble Pressure - A,CC(C)CC1CCCCC1
+methyl phenyl sulfide,363,31.67,capillary rise method - A,CSC1=CC=CC=C1
+"cis-1,4-dimethylcyclohexane",323,21.54,differential capillary rise - A,CC1CCC(CC1)C
+N-Nitrosodipropylamine,363,24.83,,CCCN(CCC)N=O
+2-octanol,313,26.7,Drop Weight-A,CCCCCCC(C)O
+diethyl maleate,333,28.44,Capillary Rise - A,CCOC(=O)C=CC(=O)OCC
+m-xylene,283,30.13,capillary Rise Method - A,CC1=CC(=CC=C1)C
+"ethyl 1,1-cyclopropanedicarboxylate",353,26.26,Maximum Bubble Pressure -A,CCOC(=O)C1(CC1)C(=O)OCC
+decane,363,17.39,capillary rise method - N2,CCCCCCCCCC
+trifluoroacetic acid,313,12.25,,C(=O)(C(F)(F)F)O
+dibutoxymethane,288,25,capillary rise,CCCCOCOCCCC
+4-benzyl-2-phenylphenol,313,42.68,drop weight - A,C1=CC=C(C=C1)CC2=CC(=C(C=C2)O)C3=CC=CC=C3
+salicyladehyde,353,35.44,Maximum Bubble Pressure - A,C1=CC=C(C(=C1)C=O)O
+1-trydecyne,358,21.46,Maximum Bubble Pressure - A,CCCCCCCCCCCC#C
+isopropyl phenyl sulfide,343,28.18,capillary rise method - A,CC(C)SC1=CC=CC=C1
+1-iodopropane,303,28.23,differential capillary rise method - A,CCCI
+n-methylaniline,353,31.56,,CNC1=CC=CC=C1
+2-hexyl-pyridine,313,28.86,Maximum Bubble Pressure - A,CCCCCCC1=CC=CC=N1
+octyl octanoate,338,24.65,Maximum bubble pressure - A,CCCCCCCCOC(=O)CCCCCCC
+1-bromohexadecane,303,30.79,differential capillary rise method - A,CCCCCCCCCCCCCCCCBr
+methyl cyclobutane,363,22.45,capillary rise method - A,CC1CCC1
+thymol,368,26.15,maximum bubble pressure - A,CC1=CC(=C(C=C1)C(C)C)O
+p-nitroanisole,373,38.61,maximum bubble pressure - A,COC1=CC=C(C=C1)[N+](=O)[O-]
+isobutyl formate,343,18.29,Differential Capillary Rise-A,CC(C)COC=O
+methyl thiocyanate,373,27.61,,CSC#N
+3-(butylamino)-propionitrile,298,30.38,Capillary Rise Method - A,CCCCNCCC#N
+pentyl 1-naphthaleneacetate,293,36.34,maximum bubble pressure - A,CCCCCOC(=O)CC1=CC=CC2=CC=CC=C21
+N-nitrosodihexylamine,343,25.91,,CCCCCCN(CCCCCC)N=O
+Nonyl heptanoate,318,26.68,Maximum bubble pressure - A,CCCCCCCCCOC(=O)CCCCCC
+hexadecane,323,24.91,capillary rise method - N2,CCCCCCCCCCCCCCCC
+1-methyl-4-methylenecyclohexane,283,25.7,differential capillary rise - A,CC1CCC(=C)CC1
+"methyl 3,3-dipropylglutarate",348,25.59,differential capillary rise method ,CCCC(CC(C)(CC)C(=O)OC)CC(=O)O
+methyl isovalerate,323,21.12,Differential Capillary Rise-A,CC(C)CC(=O)OC
+"methyl 2-methyl-1,1-cyclohexanediacetate",373,27.83,differential capillary rise - A,CC1CCCCC1(CC(=O)O)CC(=O)OC
+"3-ethyl-2,2-dimethylpentane",293,22.39,capillary rise method - A,CCC(CC)C(C)(C)C
+1-Napthalene Methanol,363,40.21,Maximum Bubble Pressure - A,C1=CC=C2C(=C1)C=CC=C2CO
+3-hexanone O-ethyloxime,323,21.32,Maximum bubble pressure - A,CCCC(=NOCC)CC
+"dipropyl-1,1-cyclopropanecarboxylic acid",343,25.99,Capillary Rise Method - A,CCCC1C(C1C(=O)OCC)CCC
+glycerol trioctanoate,353,26.08,maximum bubble pressure - N2,CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC
+cyclohexane,278,27.13,Maximum Bubble Pressure - A,C1CCCCC1
+pentanol,333,22.3,Capillary rise method,CCCCCO
+2-methylthiophene,358,22.51,,CC1=CC=CS1
+butyl orthoformate,348,20.85,capillary rise method - A,CCCCOC(OCCCC)OCCCC
+4-ethyl-2-methylhexane,303,20.85,capillary rise method - A,CCC(CC)CC(C)C
+glycerol trinitrate,288,51.98,capillary rise - A,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
+allyl butyrate,313,24.05,Capillary Rise - A,CCCC(=O)OCC=C
+cyclopentyl formate,333,27.16,differential capillary rise - A,C1CCC(C1)OC=O
+isopentyl fumarate,293,29.33,Capillary Rise - A,CC(C)CCOC(=O)/C=C/C(=O)O
+tert-buyl ethyl sulfide,333,19.72,Capillary rise method - A,CC(C)(C)SC
+isohexylamine,303,22.64,,CC(C)CCCN
+diethyl (bromoethyl)-malonate,343,26.45,,CCOC(=O)C(CCBr)C(=O)OCC
+1-iodo-3-methylbutane,313,26.71,differential capillary rise method - A,CC(C)CCI
+"1,1-diisobutoxyethane",323,19.74,capillary rise,CC(C)COC(C)OCC(C)C
+pentaethylene glycol mono-dodecyl ether,293,32,capillary rise method - A,CCCCCCCCCCCCOCCOCCOCCOCCOCCO
+propylcyclopentane,313,22.99,Maximum Bubble Pressure - A,CCCC1CCCC1
+"methyl trans-hexahydro-2,2-indandiacetate",308,34.27,differential capillary rise method ,CC12CCCCC1CC(C(=O)OC)C2C(=O)O
+1-nonanol,363,22.96,Capillary rise method,CCCCCCCCCO
+isobutylamine,313,20.11,,CC(C)CN
+ethylene glycol,413,37.75,capillary rise -v ,C(CO)O
+dipropyl hexylphosphonate,293,28.06,maximum bubble pressure - A,CCCCCCP(=O)(OCCC)OCCC
+2-hexylthiophene,333,26.35,,CCCCCCC1=CC=CS1
+dibutylamine,333,20.79,,CCCCNCCCC
+"2-Butyne-1,4-diol, diacetate",333,35.77,Maximum Bubble Pressure - A,CC(=O)OCC#CCOC(=O)C
+butyl isobutyrate,323,21.52,Differential Capillary Rise-A,CCCCOC(=O)C(C)C
+propiophenone,303,36.3,capillary rise method - A,CCC(=O)C1=CC=CC=C1
+Butyl Acetate,363,17.94,Differential Capillary Rise-A,CCCCOC(=O)C
+ethyl 3-ethoxypropionate,293,27.84,Maximum Bubble Pressure - A,CCOCCC(=O)OCC
+alpha-campholenic acid,333,31.67,Maximum Bubble Pressure - N2,CC1=CCC(C1(C)C)CC(=O)O
+4-methyl-pyridine,358,25.79,Maximum Bubble Pressure - A,CC1=CC=NC=C1
+"1,1-dipropoxyethane",353,17.25,capillary rise,CCCOC(C)OCCC
+1-butene,263,16.51,capillary rise method - v,CCC=C
+ethyl trichloroacetate,313,28.68,capillary rise method - A,CCOC(=O)C(Cl)(Cl)Cl
+3-methylcyclohexanol,363,23.42,differential capillary rise - A,CC1CCCC(C1)O
+m-nitrotoluene,353,34.6,maximum bubble pressure - A,CC1=CC(=CC=C1)[N+](=O)[O-]
+ethyl heptanoate,303,25.5,Differential Capillary Rise-A,CCCCCCC(=O)OCC
+hexyl phenyl sulfide,353,36.89,capillary rise method - A,CCCCCCSC1=CC=CC=C1
+2-ethoxyethanol,303,27.9,Capillary rise method,CCOCCO
+octadecane,343,24.4,capillary rise method - N2,CCCCCCCCCCCCCCCCCC
+propyl tridecanoate,308,27.92,Maximum bubble pressure - A,CCCCCCCCCCCCC(=O)OCCC
+isopentyl hydrocinnamate,288,32.19,Capillary Rise - A,CC(C)CCOC(=O)CCC1=CC=CC=C1
+2-chloro-2-methylhexane,328,20.72,,CCCCC(C)(C)Cl
+Isobutyl Cyanoacetate,298,30.27,Maximum Bubble Pressure - N2,CC(C)COC(=O)CC#N
+Ethyl Palmitate,323,28.56,Maximum Bubble Pressure,CCCCCCCCCCCCCCCC(=O)OCC
+ethylene glycol,353,43.09,capillary rise -v ,C(CO)O
+diisopropoxymethane,343,16.56,capillary rise,CC(C)OCOC(C)C
+3-(pentylamino)-propionitrile,298,29.13,Capillary Rise Method - A,CCCCCNC(C)C#N
+3-chloropropene,288,24.08,,C=CCCl
+trimethyl orthophosphate,333,32.93,capillary rise method - A,COP(=O)(OC)OC
+pentyl 3-butenoate,323,23.94,Capillary Rise - A,CCCCCOC(=O)CC=C
+pentyl 3-propoxypropionate,358,21.95,Maximum Bubble Pressure - A,CCCCCOC(=O)CCOCCC
+"methyl 3,3-diethylglutarate",318,29.51,differential capillary rise method ,CCCC(CC(=O)OC)C(C)(C)C(=O)OC
+propyl 9-decynoate,343,26.96,Differential Capillary Rise - A,C#CCCCCCCCC(=O)OCCC
+perfluoromethylcyclohexane,313,13.8,,C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(C(F)(F)F)F
+"3,8-dichloro-3,8-diethyldecane",298,32.16,,CCC(CC)(CCCCC(CC)(CC)Cl)Cl
+3-methylbutyl trichloroacetate,363,22.04,capillary rise method - A,CC(C)CCOC(=O)C(Cl)(Cl)Cl
+"2,4,4-trimethylhexane",298,20.75,capillary rise method - A,CCC(C)(C)CC(C)C
+4-phenyl-3-buten-2-one,443,28.1,capillary rise method - A,CC(=O)C=CC1=CC=CC=C1
+propyl cyclobutane,333,24.97,capillary rise method - A,CCCC1CCC1
+"glycerol 1,2-diacetate 3-oleate",313,20.82,capillary pressure - A,CC(=O)OCC(COC(C)=O)COC(=O)CCCCCCCCCCCCC(C)C
+isopentyl formate,373,16.75,Differential Capillary Rise-A,CC(C)CCOC=O
+tert-butyl disulfide,303,26.5,Capillary rise method - A,CC(C)(C)SSC(C)(C)C
+"1,6-dibromohexane",333,35.92,,C(CCCBr)CCBr
+hexyl 1-naphthaleneacetate,358,30.46,maximum bubble pressure - A,CCCCCCOC(=O)CC1=CC=CC2=CC=CC=C21
+tributyl orthophosphate,288,25.56,capillary rise method - A,CCCCOP(=O)(OCCCC)OCCCC
+1-phenyl-2-butanone,333,32.36,capillary rise method - A,CCC(=O)CC1=CC=CC=C1
+isopentyl sulfite,293,27.86,Capillary rise method - A,CC(C)CCOS(=O)[O-]
+diethyl pentylmalonate,343,24.29,differential capillary rise method ,CCCCCC(C(=O)OCC)C(=O)OCC
+"1,2-dimethoxy-4,5-dinitrobenzene",453,35.3,maximum bubble pressure - N2,COC1=C(C=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-])OC
+2-propyn-1-ol,293,36.05,Maximum Bubble Pressure - A,C#CCO
+glycerol triformate,373,38.84,maximum bubble pressure - N2,C(C(COC=O)OC=O)OC=O
+diisopentyl adipate,293,30.1,differential capillary rise method ,CC(C)CCOC(=O)CCCCC(=O)OCCC(C)C
+methyl 1-naphthaleneacetate,358,38.18,maximum bubble pressure - A,COC(=O)CC1=CC=CC2=CC=CC=C21
+4-chloro-4-methyloctane,328,23.05,,CCCCC(C)(CCC)Cl
+tetrahydrothiopyran,333,31.2,,C1CCSCC1
+cyclopentanol,313,31,Maximum Bubble Pressure - A,C1CCC(C1)O
+diethyl O-nonanoyl-l-malate,303,29.51,differential capillary rise method ,CCCCCCCCCC(=O)OC(C(=O)OCC)C(O)C(=O)OCC
+Ethylbenzene,323,26.01,Capillary Rise Method - A,CCC1=CC=CC=C1
+ethyl undecanoate,313,26.54,Differential Capillary Rise - A,CCCCCCCCCCC(=O)OCC
+m-tolunitrile,293,36.82,Capillary Rise Method - A,CC1=CC(=CC=C1)C#N
+1-(2-dodecyloxyethoxy)-2-(2-hydroxyethoxy)ethane,293,31.3,capillary rise method - A,CCCCCCCCCCCCOCCOCCOCCO
+isobutyl propionate,323,23.14,Capillary Rise - A,CCC(=O)OCC(C)C
+ethyl dichloroacetate,363,24.47,capillary rise method - A,CCOC(=O)C(Cl)Cl
+methylcyclopentadecane,293,32.03,differential capillary rise - A,CC1CCCCCCCCCCCCCC1
+butyrophenone,323,32.62,capillary rise method - A,CCCC(=O)C1=CC=CC=C1
+4-methylcyclohexanol,278,28.72,differential capillary rise - A,CC1CCC(CC1)O
+1-nitrobutane,293,29.77,maximum bubble pressure method - A,CCCC[N+](=O)[O-]
+methylcyclopentadecane,313,30.35,differential capillary rise - A,CC1CCCCCCCCCCCCCC1
+1-fluoropentane,333,14.92,differential capillary rise method - A,CCCCCF
+isopropyl thienyl ketone,313,35.26,,C(C)C(=O)C1=CC=CS1
+dipropyl suberate,313,30.05,differential capillary rise method ,CCCOC(=O)CCCCCCC(=O)OCCC
+3-methyl-1-butene,298,13.84,capillary rise method - N2,CC(C)C=C
+ethyl alpha-campholanate,413,17.88,Capillary Rise Method - A,CCOC(=O)CC1CCC(C1(C)C)C
+formamide,393,49.03,differential capillary rise,C(=O)N
+octadecane,333,25.24,capillary rise method - N2,CCCCCCCCCCCCCCCCCC
+dimethyl malonate,373,27.64,differential capillary rise method ,COC(=O)CC(=O)OC
+butyl disulfide,293,30.55,Capillary rise method - A,CCCCSSCCCC
+butyl isothiocyanate,323,27.41,,CCCCN=C=S
+3-hexanone,293,26.61,maximum bubble pressure A,CCCC(=O)CC
+tris(2-pentoxyethyl)phosphite,293,29.62,maximum bubble pressure - A,CCCCCOCCOP(OCCOCCCCC)OCCOCCCCC
+nicotine,353,32.17,capillary rise method - A,CN1CCCC1C2=CN=CC=C2
+ethyl heptanoate,333,22.69,Differential Capillary Rise-A,CCCCCCC(=O)OCC
+"2,2-dimethylpentane",333,14.2,capillary rise method - A,CCCC(C)(C)C
+cyclohexanol,303,32.43,Maximum Bubble Pressure - A,C1CCC(CC1)O
+ethyl 3-hexyloxypropionate,293,27.63,Maximum Bubble Pressure - A,CCCCCCOCCC(=O)OCC
+dimethyl malonate,363,28.85,differential capillary rise method ,COC(=O)CC(=O)OC
+p-hydroxybenzaldehyde,343,47.34,Maximum Bubble Pressure - A,C1=CC(=CC=C1C=O)O
+propyl nitrate,308,25.34,capillary rise method - A,CCCO[N+](=O)[O-]
+dibenzylamine,303,40.01,,C1=CC=C(C=C1)CNCC2=CC=CC=C2
+(2-iodoethyl)-benzene,383,31.1,,C1=CC=C(C=C1)CCI
+butyl phenyl ether,323,28.55,capillary rise method - A,CCCCOC1=CC=CC=C1
+5-chloro-5-methylundecane,273,29.3,,CCCCCCC(C)(CCCC)Cl
+trifluoroacetic acid,323,11.42,,C(=O)(C(F)(F)F)O
+"dimethyl 1,1-cyclobutanedicarboxylate",293,35.04,Capillary Rise Method - A,COC(=O)C1(CCC1)C(=O)OC
+propane,283,8.35,capillary rise method - v,CCC
+isopentyl sulfide,293,25.97,Capillary rise method - A,CC(C)CCSCCC(C)C
+p-chloroaniline,363,38.78,,C1=CC(=CC=C1N)Cl
+4-methylheptane,373,13.25,capillary rise method - A,CCCC(C)CCC
+tetradecane,353,21.35,capillary rise method - N2,CCCCCCCCCCCCCC
+ethyl pentyl carbonate,363,20.43,Maximum Bubble Pressure -A,CCCCCOC(=O)OCC
+ethanol,333,19.06,Capillary rise method,CCO
+dimethyl adipate,333,31.43,differential capillary rise method ,COC(=O)CCCCC(=O)OC
+3-chloro-3-methylpentane,308,22.5,,CCC(C)(CC)Cl
+"methyl 1,1-cyclohexanedicarboxylate",323,32.28,Maximum Bubble Pressure -A,COC(=O)C1CCCCC1C(=O)OC
+cyclopentanone,373,24.55,differential capillary rise - A,C1CCC(=O)C1
+thionyl bromide,323,42.53,,O=S(Br)Br
+m-dimethoxybenzene,403,26,maximum bubble pressure - A,COC1=CC(=CC=C1)OC
+Tetrahydrofurfuryl alcohol,433,23.83,Capillary Rise Method - A,C1CC(OC1)CO
+"glycerol 1,2-diacetate 3-oleate",383,17.09,capillary pressure - A,CC(=O)OCC(COC(C)=O)COC(=O)CCCCCCCCCCCCC(C)C
+formanilide,363,36.42,,C1=CC=C(C=C1)NC=O
+ethyl 2-acetovalerate,333,26.15,Maximum Bubble Pressure - N2,CCCC(C)(CC)C(=O)O
+1-methylnaphthalene,343,33.42,capillary rise method - A,CC1=CC=CC2=CC=CC=C12
+"2,3-dimethylpentane",298,19.47,capillary rise method - A,CCC(C)C(C)C
+m-Hydroxybenzaldehyde,383,41.96,Maximum Bubble Pressure - A,C1=CC(=CC(=C1)O)C=O
+"3-methyl-2,4-pentanedione",333,28.84,maximum bubble pressure N2,CC(C(=O)C)C(=O)C
+hexacosane,373,24.13,capillary rise method - N2,CCCCCCCCCCCCCCCCCCCCCCCCCC
+4-propyl-pyridine,293,32.08,Maximum Bubble Pressure - A,CCCC1=CC=NC=C1
+"methyl 3,3-dipropylglutarate",338,26.48,differential capillary rise method ,CCCC(CC(C)(CC)C(=O)OC)CC(=O)O
+heptyl sulfide,323,26.88,Capillary rise method - A,CCCCCCCSCCCCCCC
+hexyl 1-naphthyl ketone,313,34.9,maximum bubble pressure - A,CCCCCCC(=O)C1=CC=CC2=CC=CC=C21
+methyl dodecanoate,333,26.01,Differential Capillary Rise-A,CCCCCCCCCCCC(=O)OC
+trans-decahydronaphthalene,343,24.82,maximum bubble pressure - A,C1CCC2CCCCC2C1
+4-methyl-2-pentanol,308,21.8,capillary rise method - v,CC(C)CC(C)O
+heptylamine,303,23.61,,CCCCCCCN
+phenethyl alcohol,473,22.12,Capillary Rise Method - A,C1=CC=C(C=C1)CCO
+(2-bromoethyl)-benzene,393,27.92,,C1=CC=C(C=C1)CCBr
+levulinic acid,313,38.64,Maximum Bubble Pressure - A,CC(=O)CCC(=O)O
+propyl disulfide,343,25.54,Capillary rise method - A,CCCSSCCC
+methyl cyclobutane,353,23.64,capillary rise method - A,CC1CCC1
+cyclopentyl methyl ether,293,26.43,differential capillary rise - A,COC1CCCC1
+1-nonadecene,333,25.44,capillary rise method - N2,CCCCCCCCCCCCCCCCCC=C
+propionic acid,293,26.69,capillary rise method,CCC(=O)O
+butyl dichloroacetate,353,24.51,capillary rise method - A,CCCCOC(=O)C(Cl)Cl
+ethyl isothiocyanate,323,32.06,,CCN=C=S
+dipentyl acetylenedicarboxylate,343,27.2,Differential Capillary Rise - A,CCCCCOC(=O)C#CC(=O)OCCCCC
+5-dodecanol,343,23.34,Maximum Bubble Pressure -A,CCCCCCCC(CCCC)O
+ethyl undecanoate,343,23.85,Differential Capillary Rise - A,CCCCCCCCCCC(=O)OCC
+2-thiophenebutanol,358,29.32,,C1=CSC(=C1)CCCCO
+m-bromophenol,313,41.9,,C1=CC(=CC(=C1)Br)O
+"3,11-diethyl-3,11-tridecanediol",348,28.91,,CCC(CC)(CCCCCCCC(CC)(CC)O)O
+levo-4-Phenyl-2-butanol,303,34.79,Capillary Rise Method - A,CC(CCC1=CC=CC=C1)O
+dibutyl pentylmalonate,333,25.1,differential capillary rise method ,CCCCCC(C(=O)OCCCC)C(=O)OCCCC
+isopentyl formate,293,24.89,Differential Capillary Rise-A,CC(C)CCOC=O
+1-tetradecene,343,22.41,capillary rise method - N2,CCCCCCCCCCCCC=C
+cyclo-octane,343,24.39,differential capillary rise - A,C1CCCCCCC1
+alpha-bromotoluene,433,13.68,,C1=CC=C(C=C1)CBr
+3-methylcyclopentanol,343,24.74,differential capillary rise - A,CC1CCC(C1)O
+epichlorohydrin,353,28.88,,C1C(O1)CCl
+p-iodotoluene,333,33.44,,CC1=CC=C(C=C1)I
+dipentyl acetylenedicarboxylate,333,28.05,Differential Capillary Rise - A,CCCCCOC(=O)C#CC(=O)OCCCCC
+heptyl 1-naphthaleneacetate,293,35.18,maximum bubble pressure - A,CCCCCCCOC(=O)CC1=CC=CC2=CC=CC=C21
+"dipropyl 1,1-cyclobutanedicarboxylate",343,25.85,Capillary Rise Method - A,CCCOC(=O)C1(CCC1)C(=O)OCCC
+tert-butyl nicotinate,313,32.27,Maximum Bubble Pressure - A,CC(C)(C)OC(=O)C1=CN=CC=C1
+butanol,363,19.14,Capillary rise method,CCCCO
+1-chloroundecane,343,24.81,differential capillary rise method - A,CCCCCCCCCCCCl
+"2,6-dimethylheptane",283,21.88,capillary rise method - A,CC(C)CCCC(C)C
+heptanoic,288,28.61,Drop Weight-A,CCCCCCC(=O)O
+ethyl citraconate,343,27.11,Capillary Rise - A,C/C(=C\C(=O)OCC)/C(=O)OCC
+diisobutyl succinate,283,29.3,differential capillary rise method ,CC(C)COC(=O)CCC(=O)OCC(C)C
+dipropyl sebacate,373,24.92,differential capillary rise method ,CCCOC(=O)CCCCCCCCC(=O)OCCC
+"1,1,2,2-tetrachloroethane",328,31.78,differential capillary rise method - A,C(C(Cl)Cl)(Cl)Cl
+cyclobutanecarboxylic acid,343,28.49,Capillary Rise Method - A,C1CC(C1)C(=O)O
+2-methylheptane,353,14.97,capillary rise method - A,CCCCCC(C)C
+"3-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-butanol",313,29.07,capillary rise method - A,CC1=CCCC(C1C=C(C)C(C)O)(C)C
+isobutyl sulfite,323,24.46,Capillary rise method - A,C(C)CCOS(=O)OCC(C)CÊ
+2-methl-2-butanol,323,20.44,Capillary rise method,CCC(C)(C)O
+"1,8-dichloro-octane",313,34,,C(CCCCCl)CCCCl
+2-methylcyclohexanone,313,29.95,differential capillary rise - A,CC1CCCCC1=O
+3-ethyl-3-methylhexane,283,24.19,capillary rise method - A,CCCC(C)(CC)CC
+4-heptanone oxime,333,24.47,maximum bubble pressure -A ,CCCC(=NO)CCC
+cyclobutanecarboxylic acid,373,25.42,Capillary Rise Method - A,C1CC(C1)C(=O)O
+"Bis(1H,1H,5H-octafluoropentyl) sebacate",293,28.2,,C(C(C(C(C(F)F)(F)F)(F)F)(F)F)OC(=O)CCCCCCCC(=O)OCC(C(C(C(C(F)F)(F)F)(F)F)(F)F)(F)F
+1-pentyl sulfide,343,23.42,Capillary rise method - A,CCCCCSCCCCC
+decanenitrile,343,24.05,Capillary Rise Method - A,CCCCCCCCCC#N
+1-chloroheptane,363,20.29,differential capillary rise method - A,CCCCCCCCl
+dipropyl adipate,353,25.93,differential capillary rise method ,CCCOC(=O)CCCCC(=O)OCCC
+cyclopentene,303,21.45,Maximum Bubble Pressure - A,C1CC=CC1
+cis-2-pentene,283,18.56,capillary rise method - N2,CCC=CC
+ethyl 2-allylacetoacetate,313,28.41,Maximum Bubble Pressure - N2,CCOC(=O)C(CC=C)C(=O)C
+eicosane,393,20.54,capillary rise method - N2,CCCCCCCCCCCCCCCCCCCC
+6-chloro-6-methyldodecane,318,25.32,,CCCCCCC(C)(CCCCC)Cl
+phenyl propyl ether,363,24.77,capillary rise method - A,CCCOC1=CC=CC=C1
+heptyl 3-methoxypropionate,293,28.86,Maximum Bubble Pressure - A,CCCCCCCOC(=O)CCOC
+2(10)-pinene,313,25.47,Maximum bubble pressure - N2,CC1(C2CCC(=C)C1C2)C
+ethyl cyclobutanecarboxylate,333,25.22,Maximum Bubble Pressure -A,CCOC(=O)C1CCC1
+dipentyl maleate,333,27.36,Capillary Rise - A,CCCCCOC(=O)C=CC(=O)OCCCCC
+Toluene,303,27.33,Maximum Bubble Pressure - A,CC1=CC=CC=C1
+phenyl propyl ether,298,31.63,capillary rise method - A,CCCOC1=CC=CC=C1
+2-chloro-2-methyloctane,348,20.61,,CCCCCCC(C)(C)Cl
+Butyl Sulfate,303,30.27,Capillary Rise Method - A,CCCCOS(=O)(=O)[O-]
+pentyl 3-propoxypropionate,333,23.93,Maximum Bubble Pressure - A,CCCCCOC(=O)CCOCCC
+diethyl glutarate,363,25.25,differential capillary rise method ,CCOC(=O)CCCC(=O)OCC
+"ethyl trans-decahydro-2,2-naphthalenediacetate",298,33.92,differential capillary rise method ,CC(C1CCC2CCCCC2C1)C(=O)OCC
+butyl thiocyanate,313,30.07,,CCCCSC#N
+diisopentyl sebacate,313,29.5,differential capillary rise method ,CC(C)CCOC(=O)CCCCCCCCC(=O)OCCC(C)C
+cyclopentyl formate,353,24.85,differential capillary rise - A,C1CCC(C1)OC=O
+"2-Butyne-1,4-diol, dipropionate",313,34.07,Maximum Bubble Pressure - A,CCC(=O)OCC#CCOC(=O)CC
+cymene,293,27.08,Maximum Bubble Pressure - A,CC1=CC=C(C=C1)C(C)C
+"1,3-propanediol",393,36.59,capillary rise -v ,C(CO)CO
+"1,3-dibromopropane",313,37.53,,C(CBr)CBr
+dihexyloxymethane,323,24.48,capillary rise,CCCCCCOCOCCCCCC
+isopropyl hydrocinnamate,353,27.27,Capillary Rise - A,CC(C)OC(=O)CCc1ccccc1
+methyl 3-ethyl-3-methylglutarate,308,30.55,differential capillary rise method ,CCC(C)(CC(=O)OC)CC(=O)O
+ethyl 3-hexyloxypropionate,313,25.99,Maximum Bubble Pressure - A,CCCCCCOCCC(=O)OCC
+phenyl propyl ether,313,30.05,capillary rise method - A,CCCOC1=CC=CC=C1
+hexyl phenyl ether,353,25.99,capillary rise method - A,CCCCCCOC1=CC=CC=C1
+benzaldehyde,323,35.7,Drop Weight-A,C1=CC=C(C=C1)C=O
+1-hexadecene,343,23.44,capillary rise method - N2,CCCCCCCCCCCCCCC=C
+1-bromohexadecane,373,24.76,differential capillary rise method - A,CCCCCCCCCCCCCCCCBr
+trimethyl orthophosphate,343,31.8,capillary rise method - A,COP(=O)(OC)OC
+dipentyl ethyl phosphonate,358,22.67,maximum bubble pressure - A,CCCCCOP(CC)OCCCCC
+1-phenylhexane,313,28.1,Maximum Bubble Pressure - A,CCCCCCC1=CC=CC=C1
+dicyclohexylamine,343,28.88,,C1CCC(CC1)NC2CCCCC2
+"methyl 4-methyl-1,1-cyclohexanediacetate",328,30.51,differential capillary rise method ,CC1CCC(CC1)(CC(=O)OC)CC(=O)OC
+diethylene glycol,293,45.21,capillary rise -v ,C(COCCO)O
+11-decyldocosane,343,26.2,capillary rise method - A,CCCCCCCCCCCC(CCCCCCCCCC)CCCCCCCCCC
+1-bromo-4-chloro-benzene,353,32.01,,C1=CC(=CC=C1Cl)Br
+acetone O-propyloxime,303,22.59,Maximum bubble pressure - A,CCCON=C(C)C
+dimethyl chlorofumarate,333,32.85,,COC(=O)C=C(C(=O)OC)Cl
+2-butyl-pyridine,293,31.02,Maximum Bubble Pressure - A,CCCCC1=CC=CC=N1
+o-bromotoluene,313,32.63,,CC1=CC=CC=C1Br
+isobutyl phenylpropiolate,363,28.67,Differential Capillary Rise - A,CC(C)COC(=O)C#CC1=CC=CC=C1
+1-chloro-2-methylpropane,323,18.9,differential capillary rise method - A,CC(C)CCl
+fluorobenzene,333,22.45,,C1=CC=C(C=C1)F
+Ethyl Palmitate,373,24.27,Maximum Bubble Pressure,CCCCCCCCCCCCCCCC(=O)OCC
+1-chloroundecane,373,22.12,differential capillary rise method - A,CCCCCCCCCCCCl
+heptaethylene glycol,353,43.05,capillary rise -v ,C(COCCOCCOCCOCCOCCOCCO)O
+1-bromotetradecane,313,29.42,differential capillary rise method - A,CCCCCCCCCCCCCCBr
+Ethyl Acetate,373,14.68,Differential Capillary Rise-A,CCOC(=O)C
+sec-butylcyclohexane,303,26.52,Maximum Bubble Pressure - A,CCC(C)C1CCCCC1
+4-butyl-pyridine,293,32.37,Maximum Bubble Pressure - A,CCCCC1=CC=NC=C1
+4-ethyl-3-methyl-pyridine,313,33.7,Maximum Bubble Pressure - A,CCC1=C(C=NC=C1)C
+p-chlorotoluene,323,29.52,,CC1=CC=C(C=C1)Cl
+o-anisaldehyde,323,39.81,maximum bubble pressure - A,COC1=CC=CC=C1C=O
+"5,6,7,8-tetrahydro-1-naphthol",348,38.42,maximum bubble pressure - A,C1CCC2=C(C1)C=CC=C2O
+1-bromo-octane,293,29.14,differential capillary rise method - A,CCCCCCCCBr
+glycerol trihexanoate,373,25.36,maximum bubble pressure - N2,CCCCCC(=O)OCC(COC(=O)CCCCC)OC(=O)CCCCC
+methyl thiophene-2-carboxylate,333,34.5,,COC(=O)C1=CC=CS1
+1-proprionapththone,333,39.34,maximum bubble pressure - A,CCC(=O)C1=CC=CC2=CC=CC=C21
+2-aminoethanol,298,48.3,,C(CO)N
+methyl 3-ethyl-3-propylglutarate,318,29.13,differential capillary rise method ,CCCC(C(CC(=O)OC)CC(=O)OC)(CC)
+pentyl cyclobutane,323,26.46,capillary rise method - A,CCCCCC1CCC1
+ethyl methylcarbamate,303,37.12,,CCOC(=O)NC
+"2-Butyne-1,4-diol, diheptanoate",293,31.23,Maximum Bubble Pressure - A,CCCCCCC(=O)OCC#CCOC(=O)CCCCCC
+butylcyclopentane,293,25.87,Maximum Bubble Pressure - A,CCCCC1CCCC1
+tetradecane,313,24.82,capillary rise method - N2,CCCCCCCCCCCCCC
+2-bromothiophene,313,35.31,,C1=CSC(=C1)Br
+o-nitrophenol,323,41.48,maximum bubble pressure - A,C1=CC=C(C(=C1)[N+](=O)[O-])O
+5-chloro-5-butyldecane,273,29.8,,CCCCCC(CCCC)(CCCC)Cl
+4-heptanone oxime,293,27.93,maximum bubble pressure -A ,CCCC(=NO)CCC
+dimethyl suberate,363,27.9,differential capillary rise method ,COC(=O)CCCCCCC(=O)OC
+Butyl propioate,293,25.38,Differential Capillary Rise-A,CCC(=O)OCCCC
+"4,13-dipropyl-4,13-hexadecanediol",333,28.32,,CCCC(CCC)(CCCCCCCCC(CCC)(CCC)O)O
+2-methylpentane,303,16.37,capillary rise method - A,CCCC(C)C
+3-decanone,323,25.16,capillary rise method - A,CCCCCCCC(=O)CC
+ethanethiol,288,23.87,capillary rise method - A,CCS
+isopropylcyclohexane,283,27.48,Maximum Bubble Pressure - A,CC(C)C1CCCCC1
+dimethyl pentylmalonate,313,28.6,differential capillary rise method ,CCCCCC(C(=O)OC)C(=O)OC
+dihexylamine,303,26.55,,CCCCCCNCCCCCC
+Benzyl Benzoate,463,27.83,Capillary Rise Method - N2,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
+dihexyloxymethane,343,22.79,capillary rise,CCCCCCOCOCCCCCC
+1-phenyl-1-penten-3-one,403,30.99,capillary rise method - A,CCC(=O)C=CC1=CC=CC=C1
+methyl 3-methylglutarate,338,28.95,differential capillary rise method ,CC(CC(=O)[O-])CC(=O)OC
+methyl phenylacetate,303,36.95,capillary rise method - A,COC(=O)CC1=CC=CC=C1
+hexane,283,19.42,capillary rise method - N2,CCCCCC
+"2,5-dichlorothiophene",313,35.49,,C1=C(SC(=C1)Cl)Cl
+p-iodotoluene,413,25.71,,CC1=CC=C(C=C1)I
+p-chlorotoluene,343,27.36,,CC1=CC=C(C=C1)Cl
+"2,5-dimethylthiophene",293,30.45,,CC1=CC=C(S1)C
+"ethyl 2-methyl-1,1-cyclohexanediacetate",333,29.69,differential capillary rise - A,CC1(CCCCC1)CC(=O)OCC
+isopentyl crotonate,363,20.7,Capillary Rise - A,C/C=C/C(=O)OCCC(C)C
+2-methylcyclohexanol,313,29.37,differential capillary rise - A,CC1CCCCC1O
+4-methylvaleronitrile,323,24.3,Capillary Rise Method - A,CC(C)CCC#N
+ethyl thienyl ketone,358,31.68,,CCC(=O)C1=CC=CS1
+2-pentanone oxime,353,23.39,maximum bubble pressure -A ,CCCC(=NO)C
+Mesitylene,313,26.2,Maximum Bubble Pressure - N2,CC1=CC(=CC(=C1)C)C
+diethyl O-nonanoyl-l-malate,343,25.92,differential capillary rise method ,CCCCCCCCCC(=O)OC(C(=O)OCC)C(O)C(=O)OCC
+"5,6,7,8-tetrahydro-2-naphthol",433,31.99,maximum bubble pressure - A,C1CCC2=C(C1)C=CC(=C2)O
+"ethyl 3,3-dimethylglutarate",348,24.53,differential capillary rise method ,CCOC(=O)CC(C)(C)CC(=O)OCC
+1-methylnaphthalene,333,34.36,capillary rise method - A,CC1=CC=CC2=CC=CC=C12
+propyl 3-methoxypropionate,358,21.94,Maximum Bubble Pressure - A,CCCOC(=O)CCOC
+isobutyric acid,343,20.44,capillary rise method,CC(C)C(=O)O
+diethyl sebacate,313,30.84,differential capillary rise method ,CCOC(=O)CCCCCCCCC(=O)OCC
+"2,2,3,3-tetramethylpentane",283,24.28,capillary rise method - A,CCC(C)(C)C(C)(C)C
+chlorobenzene,403,20.49,,C1=CC=C(C=C1)Cl
+o-diethylbenzene,323,27.2,Maximum Bubble Pressure - A,CCC1=CC=CC=C1CC
+3-butenenitrile,343,23.8,Capillary Rise Method - A,C=CCC#N
+"2,6-dimethylheptane",363,14.79,capillary rise method - A,CC(C)CCCC(C)C
+isopentyl fumarate,303,28.51,Capillary Rise - A,CC(C)CCOC(=O)/C=C/C(=O)O
+butyl benzoate,323,30.78,capillary rise method - A,CCCCOC(=O)C1=CC=CC=C1
+N-nitrosodipentylamine,303,29.41,,CCCCCN(CCCCC)N=O
+"1,9-dichlorononane",333,32.41,,C(CCCCCl)CCCCCl
+ethyl thiocyanate,353,27.47,,CCSC#N
+4-heptanone,303,25.7,maximum bubble pressure A,CCCC(=O)CCC
+1-iodo-octane,333,27.02,differential capillary rise method - A,CCCCCCCCI
+bicyclohexane,303,31.79,differential capillary rise - A,C1CCC(CC1)C2CCCCC2
+ethyl 3-butynoate,353,23.52,Differential Capillary Rise - A,CCOC(=O)CC#C
+propyl benzoate,293,34.41,capillary rise method - A,CCCOC(=O)C1=CC=CC=C1
+"p-menttha-6,8-dien-2-one",423,22.73,capillary rise method - A,CC1=CCC(CC1=O)C(=C)C
+p-chloranisole,453,29.7,,COC1=CC=C(C=C1)Cl
+valeraldehyde,303,24.93,Maximum Bubble Pressure - A,CCCCC=O
+1-hexanethiol,293,27.5,capillary rise method - A,CCCCCCS
+"2,4,6-trinitrotoluene",393,43.14,capillary rise method - A,CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
+4-ethyl-4-heptanol,318,23.61,Maximum Bubble Pressure - A,CCCC(CC)(CCC)O
+2-ethoxyethanol,343,24.31,Capillary rise method,CCOCCO
+chloroacetic acid,313,38.8,,C(C(=O)O)Cl
+linalool,403,17.74,capillary rise method - A,CC(=CCCC(C)(C=C)O)C
+3-ethoxypropionitrile,343,26.57,Capillary Rise Method - A,CCOCCC#N
+valeric acid,353,21.8,capillary rise method,CCCCC(=O)O
+dibutyl ethylmalonate,303,27.88,differential capillary rise method ,CCCCOC(=O)C(CC)C(=O)OCCCC
+2-butanone O-ethyloxime,288,24.29,Maximum bubble pressure - A,CCC(=NOCC)C
+1-decene,353,18.49,capillary rise method - N2,CCCCCCCCC=C
+"ethyl trans-hexahydro-2,2-indandiacetate",328,30.66,differential capillary rise method ,CCOC(=O)C1C2CCCC1C2(CC(=O)O)
+3-pentanone,353,20.98,maximum bubble pressure A,CCC(=O)CC
+Ethyl 2-cyano-3-propylcrotonate,323,30.41,Capillary Rise Method - A,CCC/C(=C(/C#N)\C(=O)OCC)/C
+"ethyl 1,1,2,2-cyclopropanetetracarboxylate",323,31.51,Maximum Bubble Pressure -A,CCOC(=O)C1(CC1(C(=O)OCC)C(=O)OCC)C(=O)OCC
+2-methyl-2-pentanol,348,18.62,capillary rise method - v,CCCC(C)(C)O
+diethyl glutarate,313,30.3,differential capillary rise method ,CCOC(=O)CCCC(=O)OCC
+1-iodopentane,343,24.31,differential capillary rise method - A,CCCCCI
+"1,1-dipentylhydrazine",313,25.06,,CCCCCN(CCCCC)N
+methyl phenyl sulfide,288,40.95,capillary rise method - A,CSC1=CC=CC=C1
+cyclohexyl formate,323,28.88,differential capillary rise - A,C1CCC(CC1)OC=O
+"1,2-dimethylnaphthalene",313,37.26,maximum bubble pressure - A,CC1=C(C2=CC=CC=C2C=C1)C
+"alpha,alpha-dichlorotoluene",293,39.19,,C1=CC=C(C=C1)C(Cl)Cl
+3-hexanone,333,23.1,maximum bubble pressure A,CCCC(=O)CC
+1-chlorobutane,323,20.38,differential capillary rise method - A,CCCCCl
+1-iodopentane,373,21.27,differential capillary rise method - A,CCCCCI
+"methyl 3-methyl-1,1-cyclohexanediacetate",358,27.91,differential capillary rise method ,CC1CCC(CC(=O)OC)C(C(=O)OC)C1
+ethyl methyl ether,313,13.29,capillary rise method - A,CCOC
+p-nitroanisole,433,32.93,maximum bubble pressure - A,COC1=CC=C(C=C1)[N+](=O)[O-]
+dichloroacetic acid,313,34.1,,C(C(=O)O)(Cl)Cl
+3-ethyl-3-methylpentane,373,14.65,capillary rise method - A,CCC(C)(CC)CC
+p-bromotoluene,313,32.41,,CC1=CC=C(C=C1)Br
+1-chloro-octane,293,27.72,differential capillary rise method - A,CCCCCCCCCl
+sec-butyl sulfide,353,20.03,Capillary rise method - A,CCC(C)SC(C)CC
+iodoacetic acid,363,38.03,,C(C(=O)O)I
+Ethyl 2-cyano-3-methyl-2-pentenoate,348,28.81,Capillary Rise Method - A,CCC(=C(C#N)C(=O)OCC)C
+iodobenzene,293,39.27,,C1=CC=C(C=C1)I
+hexadecafluoroheptane,298,12.78,,C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+diphenylamine,393,33.16,,C1=CC=C(C=C1)NC2=CC=CC=C2
+1-bromobutane,293,26.46,differential capillary rise method - A,CCCCBr
+m-bromophenol,453,28.5,,C1=CC(=CC(=C1)Br)O
+isobutyl valerate,313,21.73,Differential Capillary Rise-A,CCCCC(=O)OCC(C)C
+6-undecanone,313,25.68,maximum bubble pressure - A,CCCCCC(=O)CCCCC
+3-pentanone O-ethyloxime,363,16.73,Maximum bubble pressure - A,CCC(=NOCC)CC
+dipropyl suberate,353,26.42,differential capillary rise method ,CCCOC(=O)CCCCCCC(=O)OCCC
+octyl octanoate,298,29.99,Maximum bubble pressure - A,CCCCCCCCOC(=O)CCCCCCC
+"2-propyn-1-ol, valerate",333,25.6,Maximum Bubble Pressure - A,CCCCC(=O)OCC#C
+3-methylheptane,293,21.31,capillary rise method - A,CCCCC(C)CC
+allyl phenyl ether,313,31.71,capillary rise method - A,C=CCOC1=CC=CC=C1
+pentyl isonicotinate,333,30.55,Maximum Bubble Pressure - A,CCCCCOC(=O)C1=CC=NC=C1
+"diethyl-1,1-cyclopropanecarboxylic acid",283,32.83,Capillary Rise Method - A,O=C(OCC)C1(C(OCC)=O)CC1
+1-pentane sulfonyl chloride,318,30.8,Capillary rise method - A,CCCCCS(=O)(=O)Cl
+ethyl dodecanoate,353,23.15,Differential Capillary Rise-A,CCCCCCCCCCCC(=O)OCC
+glycerol trilaurate,423,24.44,maximum bubble pressure - N2,CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC
+o-ethyltoluene,373,21.73,Maximum Bubble Pressure - A,CCC1=CC=CC=C1C
+"1,1,2,2-tetrachloroethane",318,33.04,differential capillary rise method - A,C(C(Cl)Cl)(Cl)Cl
+dimethyl adipate,343,30.29,differential capillary rise method ,COC(=O)CCCCC(=O)OC
+cumaldehyde,373,26.94,capillary rise method,CC(C)C1=CC=C(C=C1)C=O
+ethyl 2-bromopropionate,343,25.03,capillary rise method - A,CCOC(=O)C(C)Br
+benzonitrile,333,34.74,Capillary Rise Method - A,C1=CC=C(C=C1)C#N
+"2,4-xylenol",413,22.41,maximum bubble pressure - A,CC1=CC(=C(C=C1)O)C
+1-methylcyclopentene,283,20.65,Maximum Bubble Pressure - A,CC1=CCCC1
+o-bromotoluene,373,26.64,,CC1=CC=CC=C1Br
+butyl sulfite,363,22.52,Capillary rise method - A,CCCCOS(=O)OCCCC
+Acetic anhydride,303,31.21,capillary rise method,CC(=O)OC(=O)C
+"4,13-dichloro-4,13-dipropylhexadecane",308,30.68,,CCCC(CCC)(CCCCCCCCC(CCC)(CCC)Cl)Cl
+methyl decanoate,363,22.12,Differential Capillary Rise-A,CCCCCCCCCC(=O)OC
+"2,2,3-trimethylpentane",298,18.27,capillary rise method - A,CCC(C)C(C)(C)C
+ethyl 3-ethoxypropionate,333,23.93,Maximum Bubble Pressure - A,CCOCCC(=O)OCC
+"1,2,4-trimethylbenzene",313,27.66,Maximum Bubble Pressure - A,CC1=CC(=C(C=C1)C)C
+3-hexyloxypropionitrile,313,28.7,Capillary Rise Method - A,CCCCCCOCCC#N
+2-heptanone,318,24.01,maximum bubble pressure - A,CCCCCC(=O)C
+benzoyl chloride,423,25.08,,C1=CC=C(C=C1)C(=O)Cl
+benzamide,433,35.98,differential capillary rise,C1=CC=C(C=C1)C(=O)N
+isopropyl nicotinate,293,33.82,Maximum Bubble Pressure - A,CC(C)OC(=O)C1=CN=CC=C1
+methyl sulfite,313,31.47,Capillary rise method - A,COS(=O)OC
+"ethyl trans-3,3-dimethyl-1,2-cyclopropanedicarboxylate",353,24.45,Maximum Bubble Pressure -A,CC(C)1C(C1C(=O)OCC)C(=O)OCCÊ
+2-methyl-2-nitropropane ,313,26.33,maximum bubble pressure method - A,CC(C)(C)[N+](=O)[O-]
+"1,1-dipropoxyethane",303,22.11,capillary rise,CCCOC(C)OCCC
+4-ethyl-3-methylhexane,313,21.4,capillary rise method - A,CCC(C)C(CC)CC
+o-benzoquinone phenylhydrazone,393,33.99,maximum bubble pressure - A,c1ccccc1N=Nc2ccccc2C(=O)C=Cc3ccccc3
+acetone O-propyloxime,323,20.45,Maximum bubble pressure - A,CCCON=C(C)C
