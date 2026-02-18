@@ -1,5 +1,5 @@
 
-!pip install xgboost rdkit
+## pip install xgboost rdkit scikit-learn
 import os
 import pandas as pd
 import numpy as np
@@ -78,9 +78,15 @@ def smiles_to_morgan(smiles, radius=2, nBits=2048):
     except:
         return None
 
+
+# Get the directory of the currently running script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
+#print(f"Current Working Directory: {os.getcwd()}")
+
 # Load pre-trained models
 Morgan_best_model_fp = "./Saved_Models/20240808_XGBoost_Morgan.json"
-MACCS_best_model_fp = "./Saved_Models/20240808_XGBoost_MACSS.json"
+MACCS_best_model_fp = "./Saved_Models/20240808_XGBoost_MACCS.json"
 Simplified_best_model_fp = "./Saved_Models/20240812_XGBoost_Simplified.json"
 
 Morgan_best_model = XGBRegressor()
@@ -107,17 +113,17 @@ def main():
     # Process and predict using MACCS model
     df['MACCS_Keys'] = df.apply(lambda row: smiles_to_maccs(row['SMILES']), axis=1)
     df = df.dropna(subset=["MACCS_Keys"]).reset_index(drop=True)
-    X_temp = df[['TempC']].values + 273  # ensure temp is in kelvin
+    X_temp = df[['TempC']].values + 273.15  # ensure temp is in kelvin
     X_maccs = np.array(list(df['MACCS_Keys']))
     X_scaled = np.concatenate((X_temp, X_maccs), axis=1)
-    df["Sigma_MACCS"] = MACCS_best_model.predict(X_scaled)
+    df["Sigma_MACCS_[mN/m]"] = MACCS_best_model.predict(X_scaled)
     
     # Process and predict using Morgan model
     df['Morgan'] = df.apply(lambda row: smiles_to_morgan(row['SMILES']), axis=1)
     df = df.dropna(subset=["Morgan"]).reset_index(drop=True)
     X_morgan = np.array(list(df['Morgan']))
     X_scaled = np.concatenate((X_temp, X_morgan), axis=1)
-    df["Sigma_Morgan"] = Morgan_best_model.predict(X_scaled)
+    df["Sigma_Morgan_[mN/m]"] = Morgan_best_model.predict(X_scaled)
     
     # Process and predict using Simplified model
     df['MolecularProperties'] = df['SMILES'].apply(calculate_molecular_properties)
@@ -126,15 +132,15 @@ def main():
         'Cl_C_Ratio', 'F_C_Ratio', 'I_C_Ratio', 'Br_C_Ratio'
     ])
     df = pd.concat([df, properties_df], axis=1).dropna().reset_index(drop=True)
-    df['Temperature'] = df['TempC'] + 273
+    df['Temperature'] = df['TempC'] + 273.15
     X_simplified = df[['Temperature', 'MolarWeight', 'OC_Ratio', 'HC_Ratio', 'NC_Ratio', 'SC_Ratio', 'PC_Ratio',
         'Cl_C_Ratio', 'F_C_Ratio', 'I_C_Ratio', 'Br_C_Ratio']].values
-    df["Sigma_Simplified"] = Simplified_best_model.predict(X_simplified)
+    df["Sigma_Simplified_[mN/m]"] = Simplified_best_model.predict(X_simplified)
 
     # Save the output to the Model_Outputs folder
     output_file_path = f"./Model_Outputs/Output_{file_number}.csv"
-    df_out = df[["SMILES", "TempC", "Sigma_MACCS", "Sigma_Morgan", "Sigma_Simplified"]]
-    df_out.to_csv(output_file_path, index=False)
+    df_out = df[["SMILES", "TempC", "Sigma_MACCS_[mN/m]", "Sigma_Morgan_[mN/m]", "Sigma_Simplified_[mN/m]"]]
+    df_out.to_csv(output_file_path, index=False, float_format='%.2f')
     print(f"Predictions saved to {output_file_path}")
 
 if __name__ == "__main__":
